@@ -1,0 +1,2799 @@
+<DOC Nid="10001">
+<P>大自然多麼奇妙，一陣風雨過後，雖然有些花朵被打得四處飄零，但面對陽光時，又是一番新的氣象，人生不也是如此嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10002">
+<P>人生經過的風風雨雨數以萬計，差別不就是，事情的大或小，事情的前或後，事情的對或錯而已嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10003">
+<P>聰明的人會選擇面對它解決它，但是，用錯的方法不但沒效，反而會把事情搞壞。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10004">
+<P>當別人有困難時，而你可以適時的伸出援手，對別人的幫助是很大的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10005">
+<P>困難是你成長的最好秘方，困難無時無刻都在你身旁。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10006">
+<P>梅雨季節，到處都是水，不能從事戶外活動，四肢彷彿要生鏽了一般，不能活動自如。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10007">
+<P>但是，梅雨時節之後就是夏季了，是個從事戶外活動的好季節。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10008">
+<P>梵谷，他一直處於身心受到折磨的狀態，財產也相當缺乏，但是他的畫是無人不知、無人不曉的名畫。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10009">
+<P>有一部電影叫「功夫棒球」，其中主角的口頭禪是「逆境」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10010">
+<P>很多偉人都是受到多方的逆境，但是都成為了偉人。而都身處於順境的偉人在歷史中是少之又少的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10011">
+<P>這場地震造成許多人美滿的家園在一夕之間全部沒了，有人甚至被活埋，而有人是大為幸運而逃了出來。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10012">
+<P>災難讓大家領悟到家人、朋友是多麼地重要，更珍惜現在所擁有的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10013">
+<P>不幸過後，我們還是可以勇敢地站起來面對，因為事情都已發生了，我們還畏畏縮縮的，那豈不是解決不了那問題嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10014">
+<P>雖然花兒被打得四處飄零，但當陽光再度出現時，他們的生命也有了新氣象。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10015">
+<P>若人生中沒有這些苦難，又有何樂趣呢？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10016">
+<P>「逆境是最好的老師」，不管任何風雨，總有一天都會過去的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10017">
+<P>每個人面對困境的方法都不同，但我想克服困境時的信心和毅力是不可缺少的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10018">
+<P>別林斯基說過：「不幸是一所最美好的大學」從不幸當中學習，能體悟到更多的人生經驗。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10019">
+<P>沒有了家人的陪伴與鼓勵，學會如何在獨立中成長，這是否也是個意外的奇蹟呢？ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10020">
+<P>音樂家－貝多芬，雖然他的耳朵聽不見了，在後來也創作出動聽美妙的音樂啊！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10021">
+<P>雲門舞集，它把書法當作背景，在背景前舞者們扭動著身體，跳著那優美的舞姿，同時也將許多歷史故事融入，</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10022">
+<P>負責人林懷民，眼眶裡都是淚水，心裡的不捨，是旁人無法體會的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10023">
+<P>幾天之後，每個人都拿著一台相機，都努力地想要捕捉那些還保有一點原樣的畫面。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10024">
+<P>希望他們可以不會因為這場大火，而影響到他們表演的心情。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10025">
+<P>人生就像千奇百怪的氣候，什麼事都有可能會發生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10026">
+<P>我奶奶在日本人家裡中風倒在地上，經過這件事後，我媽媽再也沒有看到我奶奶了，誰也不知道老天爺這麼會捉弄人。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10027">
+<P>一場暴風雨，摧殘了許多的花草，摧折了許多蓊鬱的大樹，大地呈現一片死寂。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10028">
+<P>若說人生是一塊未經修飾的璞玉，那逆境必是雕琢璞玉的刀子，將隱藏在其中的光輝牽引而出。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10029">
+<P>大多數的人家庭美滿，父母照顧得無微不至，雖然「平凡」也是一種幸福，但過度的享樂，卻是壞了人生的主因啊！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10030">
+<P>「逆境是最好的老師。」在它的磨練下，會有更堅韌的心志。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10031">
+<P>雖然有些花朵被打得四處飄零，被吹得四處飄散，但面對陽光時，卻又是另一幅美景。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10032">
+<P>電視上有許多新聞，雙親都已過世，才十幾歲的孩子，你說他想要這樣的生活？也許這是人生的遭遇吧！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10033">
+<P>生命中的逆境，並不見得都是負面，就是所謂「不經一事，不長一智」重要的是在困難中學習。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10034">
+<P>有時一場災難說不定能將你帶向更光明、更完美的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10035">
+<P>在大雨肆虐過後，在人們眼中，留下來的樹兒、花兒，才是最堅毅、最美麗的存在。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10036">
+<P>風雨過後留下的不是一片愁雲慘霧，而是另一條更明亮、更寬闊的道路。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10037">
+<P>一陣風雨過後，雖然有些花朵被打得四處飄零，但面對陽光時，又是一番新的氣象。 </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10038">
+<P>像愛迪生在實驗室失火之後，一生大半的研究都付之一炬，但三個月後，他發表了他的第一部留聲機。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10039">
+<P>期待是沒用的，一定要自己有所付出，努力和貫徹始終的精神，才能從無底的深淵裡爬出來</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10040">
+<P>「不幸是一所最美好的大學」，這句話講得如此地好。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10041">
+<P>大自然很奇妙，風雨過後，只要太陽一出現時，又是一種新的氣象。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10042">
+<P>只要經過那些大風大浪後，就是晴朗寧靜的大海了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10043">
+<P>「挫折」可以磨練我們的身心，更可以體會到不一樣的結果。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10044">
+<P>「逆境」可以使人永遠失敗，也可以變成人生最好的老師。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10045">
+<P>對於一個可以將危機化為轉機的人，這些苦難便不算什麼了，風雨過後的日子將會有一片光明的未來。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10046">
+<P>對於「挫折」這件事的看法與處理方式要怎樣才是最好的？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10047">
+<P>司馬遷雖然遭受人生奇恥大辱，但他最後卻完成了史記。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10048">
+<P>由此可見，「不經一番寒徹骨，焉得梅花撲鼻香」沒有海上的大風大浪，是造就不出好水手的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10049">
+<P>白色的粉筆，沉重地在黑板上刻著，彷彿在訴說什麼。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10050">
+<P>有時候我都在想，為什麼黑板能負荷這麼困難的課業，而我們卻無法承擔。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10051">
+<P>黑板雖然沉重，但要陪伴我們三年，卻也有不少樂趣回憶在這裡發生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10052">
+<P>教室對我們來說是除了家裡以外最熟悉的地方了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10053">
+<P>教室裡有上課的歡笑聲，粉筆寫在黑板的吱吱聲，還有老師在罵人的聲音。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10054">
+<P>教室裡的每個角落，像是黑板、置物櫃、垃圾桶……這些幾乎都是每個班級有的物品。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10055">
+<P>白板讓我聯想到的是媽媽，無時無刻提醒著你、叮嚀著你。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10056">
+<P>放置垃圾桶的角落，它是多麼不起眼的一個角落啊！但是等到有垃圾時，它變成為大家走向的一隅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10057">
+<P>有許多人都是跟垃圾桶一樣處於一個毫不起眼的角落，等到需要你的時候才捧在手中。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10058">
+<P>人要像黑板一樣大而有信心感，不要像小紙條一樣怯憐憐！等待別人發現。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10059">
+<P>下課後，大家都很有活力，追啊！跑啊！跳的，引來組長生氣抓人呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10060">
+<P>放學後，有的相約回家，有的一起補習，彼此離開了教室。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10061">
+<P>在學習時，也在成長時，更恣情享受著友誼的滋潤。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10062">
+<P>教室，不是每個人都會仔細地觀察它、仔細地探索它。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10063">
+<P>每天，在教室裡都上演著不同的戲碼，各式各樣，每天為教室中帶來朝氣。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10064">
+<P>在教室的一隅，可以瞭解更多的東西，知道了處處皆是美的道理。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10065">
+<P>教室對學生或老師而言，在這裡的每一樣東西都充滿了許多珍貴的回憶。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10066">
+<P>我們應該要好好地把握當學生的這段期間，多看看教室的每一個角落。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10067">
+<P>我想這間教室一定可以因為我們班的品德，而名聲遠播吧！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10068">
+<P>教室的角落，是教室裡最受歡迎的一處，就像是同學們的秘密基地呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10069">
+<P>在教室裡的每一個角落，都會有不同的面貌和功用。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10070">
+<P>教室的每一個角落都值得我們去觀察，令我最印象深刻的就是－黑板。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10071">
+<P>它是在校園裡不可或缺的東西，它提供我們學習等功能。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10072">
+<P>大家也可以好好觀察一下自己的教室哦！說不定你會有驚奇、有趣的發現哦！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10073">
+<P>教室是我們國中生目前一天之中，最長也最多回憶的居所，更如同另一個家。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10074">
+<P>「他」就是「佈告欄」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10075">
+<P>我時常對著黑板邊的時鐘看，只要是學生都一定會有這個習慣吧！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10076">
+<P>有一個看似不起眼但每天至少會看上幾次的東西，那就是時鐘。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10077">
+<P>時鐘靜靜地報時，好像隱居的高僧一樣，只靜靜地念著屬於自己的經文。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10078">
+<P>每天看著掛在黑板角落的時鐘，卻也是種消磨時間的方式。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10079">
+<P>它就像頑童一般，繼續轉動，好似你沒時間是你活該。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10080">
+<P>當我們累了，它可以讓我們休息，上課時，它是幫助我們學習工具。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10081">
+<P>不管是好事或壞事，我也會一直陪著它，直到畢業。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10082">
+<P>教室，是學生學習的地方；教室，是學生成長的地方；教室，是學生玩樂的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10083">
+<P>下課時間，我看見了人見人厭的小強從回收桶跑出來。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10084">
+<P>這些美好的事物，也在畢業之後永別了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10085">
+<P>除了可以學習外，又可以發現新事物、成長，真是十全十美的一個好地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10086">
+<P>教室，每天在這個不大也不小的空間裡總會發生許許多多不同的趣事。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10087">
+<P>若有同學生日它便成了大家為同學慶祝所用的畫紙，各種圖案和祝福語充斥使得黑板上好不熱鬧啊！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10088">
+<P>黑板虐待成這樣當然要好好地照顧它囉！有次別班的老師來上課，還誇獎我們班乾淨的黑板呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10089">
+<P>每次都會抬頭瞄一下時鐘，看什麼時候下課、剩幾分鐘。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10090">
+<P>畢業時，在回過頭看這些景物，一定會非常懷念，或許會有些感傷，但這卻是美好的回憶。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10091">
+<P>放在教室最偏僻一角的垃圾桶，往往張開他那血盆大口，接下人們不要的廢物。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10092">
+<P>然而世界展望會，可不會不管，經過重整，又回到以前的樣子。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10093">
+<P>陽光、空氣、水、食物是人類或不可缺的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10094">
+<P>我以最崇拜、最肯定的態度感謝他，感謝他的精神。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10095">
+<P>在教室最熟悉的空間，大概就是後門空曠的地方吧！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10096">
+<P>一踏進我們班，不免會聽到三字經或是慘叫聲。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10097">
+<P>用功的同學別在那時看書，以免讀不進去，套句成語應該是「得不償失」吧！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10098">
+<P>這小小的空間裡，是大家的BBS，可以清楚瞭解他昨晚吃什麼、發生什麼事。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10099">
+<P>那規律但又不乏味又有一點柔中帶剛的聲響就是從整個教室最高深莫測的黑板來的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10100">
+<P>只要一看到黑板上密密麻麻的名單和功課，人馬上就昏倒了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10101">
+<P>上課是一件很無趣的事，可是當你正覺得無趣時，可能來了一聲音讓你不覺得無趣了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10102">
+<P>每一樣事物只要專心一定能發現其中的奧妙，就像古人所說的萬物靜觀皆自得。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10103">
+<P>早上一到教室，彷彿冬天一樣，冷清清的，沒有一絲溫暖。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10104">
+<P>突然我看到左下角竟然寫著我的座號，奇怪，昨天我有不乖嗎？是我又忘了交功課了！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10105">
+<P>我的座位離垃圾桶很遠，要走到那裡像是在演「不可能的任務四」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10106">
+<P>後來發現坐在那裡的人，不管是誰都會有這種行為，令我覺得有趣。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10107">
+<P>深綠色的黑板上，好像聯絡本，是師生交流的園地，同學發揮想像力的空間。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10108">
+<P>它們帶給我們方便，也是現在玩樂的地方，隱藏許多我們的秘密。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10109">
+<P>每當我看到黑板時，我就想到有人用粉筆亂畫黑板，然後亂畫黑板的人，他就會被罵。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10110">
+<P>每當我看到電燈時，我就會想起我剛來上學的第一天教室的燈熄了，好像是停電了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10111">
+<P>每當我看到桌子時，我就會想到桌上放了一張數學考卷，而我卻一題都不會寫。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10112">
+<P>很多的事都是從教室發生的，但我們是否有發現對教室某處東西的情感呢？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10113">
+<P>黑板是我們最容易發現的一樣物品，因為老師每天寫黑板。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10114">
+<P>教室，是人生必看過的景物，常常會想著，教室就是教室，沒有什麼特別的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10115">
+<P>要進入教室前，必定經過所謂的「前門和後門」，還有隱隱約約聽到同學的打鬧聲。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10116">
+<P>如果沒有教室，我們地球怎麼會有數不完的人才？教室，也是很偉大的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10117">
+<P>對於教室每個不同的角落我早已十分熟悉，我最喜歡的地方靠近後門的出口位置。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10118">
+<P>為什麼特別喜愛這人進人出，吵雜的角落呢？它既不是我的座位，也不是人煙稀少的一隅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10119">
+<P>以前和好朋友吵架時，會常常悶在後門那發呆，想著彼此曾有過的回憶。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10120">
+<P>它的內容豐富又有趣，心裡就有莫名的快樂，總是讓我想把一整套的書籍通通都看完。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10121">
+<P>為了保護它，我們把裂開的洞補起來了，讓它跟以前一樣完美。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10122">
+<P>教室裡的黑板，是一張又大又黑的大紙，在上課時，它讓我們看見圖畫、字、句子。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10123">
+<P>在教室裡，有許多物品對我們的幫助有很大，而我們是否有細心地愛護它們嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10124">
+<P>你沒注意到的角落，也許「他」只是一個小小裝飾，又或者「他」是你生命中的一部分。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10125">
+<P>因為我的位置剛好就在角落，而我也是最不起眼，最被忽略的那一個。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10126">
+<P>看到這些事物，就會令自己明白我身在何處，就要認真努力，做自己。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10127">
+<P>有時想想，覺得這也許不是我的舞臺，而我還在繼續尋找那舞臺。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10128">
+<P>不過在找尋的過程中，雖然容易被忽略，但是有時能出一分力，使班級更好。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10129">
+<P>很多人對它都完全不珍惜，要是弄壞了，那麼又得買新的，多麼浪費地球的資源啊！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10130">
+<P>書桌是一個很實用的工具，寫字、讀書都要用到它，而且它可以用得很久。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10131">
+<P>書桌也有讓人快樂的時候，可惜最讓人快樂的時候總是會涉及破壞書桌。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10132">
+<P>如果有書桌，那就一定有桌墊及椅子，少了這三樣工具，我們可就不必上學啦！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10133">
+<P>教室說大不大，說小也不小，如果你用心去觀察的話，可以發現很多的事呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10134">
+<P>雖然它很不起眼，但有很多東西可以從它肚子中拿出來，這樣看來很像是小叮噹的百寶袋呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10135">
+<P>不過，它不比百寶袋厲害，功能卻很多，它可以提供任課老師把書放在它的頭上。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10136">
+<P>它還可以幫助我們保持班級的整潔，因為它的肚子有垃圾袋，也可以塞一些雜七雜八的小東西。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10137">
+<P>改天我們若是有什麼創意或巧思的話，說不定能幫它做一個大改造，使它煥然一新呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10138">
+<P>有許多事物我們只因為習慣而視它為理所當然，其實我們有時也應幫它去除身上的污漬。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10139">
+<P>你也來觀察教室的一隅吧！說不定有機會發現有趣的事哦！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10140">
+<P>教室是我們最熟悉的地方，令我最印象深刻的就是－黑板。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10141">
+<P>每個人的人生或許只有一次，但卻很短暫，或許對一些沒有出息、意念的人來說，一輩子不過是如此而已。</P> 
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10142">
+<P>我的人生方向如果自己有能力的話，我想要當一位科學家。</P> 
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10143">
+<P>不同的人就會發生不同的事，如果真的有心要去做，就可以好好努力打拼，相信未來一定也可以大有可為的。</P> 
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10144">
+<P>每個人都有各自的方向，方向也都不同，但唯一相同的是--每個人的方向，都是由自己來裁決的。</P> 
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10145">
+<P>大家都會打打鬧鬧，導致塑膠櫃都破爛無比，這裡破，那裡裂掉，好像從垃圾場撿回來的一樣！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10146">
+<P>你的心往哪條路走，你人生的方向就會往哪條前進。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10147">
+<P>我的方向？我不敢確定，因為我現在十三歲，還不是很成熟。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10148">
+<P>人的一生並不只有這些方向，人的方向由自己掌握，並不是靠別人幫助的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10149">
+<P>它就像頑童一般，繼續轉動，好似你沒時間是你活該。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10150">
+<P>吃飯時，它也可以當成我們的餐桌，寫功課或是考試時，它可以當成我們的書桌。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10151">
+<P>它也是我最好的朋友，我們有福同享，有難同當，我也會一直陪著它，直到畢業。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10152">
+<P>教室，是學生學習的地方；教室，是學生成長的地方；教室，是學生玩樂的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10153">
+<P>下課時間，我看見那用功的同學在讀書，也看見那些暴力的同學在破壞公物。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10154">
+<P>雖然黑、白板是五花八門的，但是是很重要的，雖然學生是吵的，但也吵得有趣。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10155">
+<P>教室，其實是一個好地方，除了可以學習外，又可以發現新事物、成長。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10156">
+<P>教室可說是學生最熟悉的地方，每天在這個空間裡總會發生許許多多不同的趣事。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10157">
+<P>黑板是一個能有千百種用途的東西，最平常的功能就是讓老師上課時在黑板上寫東寫西。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10158">
+<P>黑板虐待成這樣當然要好好地照顧它囉！同學把它擦得好比剛上過漆般地綠。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10159">
+<P>只要是學生都一定會有這個習慣吧！每次都會抬頭瞄一下時鐘，看什麼時候下課、剩幾分鐘。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10160">
+<P>跟同學之間的回憶還真多，桌墊上的塗鴉，罰刷時的地板……等。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10161">
+<P>在那角，許多人避之為恐不及，深怕接受他口臭的「洗禮」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10162">
+<P>在這一角上，看到的不只有孤立的垃圾桶，其實也可以感受使用者的公德心。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10163">
+<P>在他的幫助下，大家生活如此方便，就像清道夫一樣，是值得人尊敬的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10164">
+<P>我以最崇拜、最肯定的態度感謝他，感謝他的精神，那是值得我們學習的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10165">
+<P>雖然在上課時很不起眼，但下課的時候就成了熱血男子格鬥的地方，也是大聲談天的場所。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10166">
+<P>而三字經當然就是因打錯人而發出來的，通常只要讓他推幾下就可以解決了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10167">
+<P>午餐時刻更是人擠人，通常一位難求。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10168">
+<P>在後門，我能暫時忘卻憂愁，而這小小的空間裡，是大家的BBS。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10169">
+<P>那規律但又不乏味又有一點柔中帶剛的聲響就是從整個教室最高深莫測的黑板來的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10170">
+<P>也許你聽過殺豬時豬叫聲你也可能聽過女人的尖叫聲，那都很可怕，可是絕對比不過用指甲弄黑板的可怕。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10171">
+<P>當你正覺得無趣時，可能來了一聲音讓你不覺得無趣了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10172">
+<P>每一樣事物只要專心一定能發現其中的奧妙，就像古人所說的萬物靜觀皆自得。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10173">
+<P>同學們一個接著一個進來，我的心終於又活了起來，嶄新的一天將在這個教室度過！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10174">
+<P>上課鐘打了，第一節課正式開始，看著溫柔的老師在黑板上左寫右寫的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10175">
+<P>我的座位離垃圾桶很遠，要走到那裡像是在演「不可能的任務四」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10176">
+<P>坐在垃圾桶前的同學，竟轉過身拿起夾子，整理垃圾桶四面八方，這坐在前幾排的我，一度以為那位同學有自閉症。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10177">
+<P>一字一句地寫在黑板上的咚咚聲，讓我想到黑板每天被咚咚地敲，會不會痛？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10178">
+<P>教室是我們最熟悉的場所，我們在此嬉戲玩耍、上課，卻沒注意到這些角落。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10179">
+<P>每當我看到地板有垃圾，我就會想到老師問服務說，今天早上有沒有掃地。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10180">
+<P>停電的時候，有一位同學因為停電了，然後很興奮地跳起來說：「耶！停電了。好棒哦！這樣就不用上課了。」然後全班都在笑，他也在笑，然後他就被老師叫起來罰站，哈哈超好笑的，因此他也是我第一個認識的同學。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10181">
+<P>每當我看到桌子時，我就會想到桌上放了一張數學考卷，而我卻一題都不會寫。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10182">
+<P>教室對學生來說是最熟悉的空間。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10183">
+<P>黑板是我們最容易發現的一樣物品，因為老師每天寫黑板，而且有時候會在上面畫畫。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10184">
+<P>教室，是人生必看過的景物，常常會想著，教室就是教室，沒有什麼特別的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10185">
+<P>看著一天下來，消耗掉的粉筆，就知道各科老師上課有多認真了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10186">
+<P>如果沒有教室，我們地球怎麼會有數不完的人才？ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10187">
+<P>而教室則像我的房間。對於教室每個不同的角落我早已十分熟悉。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10188">
+<P>教室被我們的笑聲充滿，當有人鬱悶不樂，大家也會關心地慰問他，陪同學聊心事。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10189">
+<P>相信未來畢業後的每個人，將會對這教室一有著深厚的情感，這是國中時期友誼的見證。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10190">
+<P>教室裡的書本，為我們打開讀書的興趣，為我們創造一個能自我看書的世界。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10191">
+<P>教室裡的櫃子，整天都要被我們放一大堆的資料和課本在它的嘴裡，讓我們方便取出物品。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10192">
+<P>為了愛護它，我們常常幫忙洗澡，為它穿上新衣服，使它看起來閃亮亮。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10193">
+<P>在教室裡，有許多物品對我們的幫助有很大，而我們是否有細心地愛護它們嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10194">
+<P>不管是任何事物，它都會有一小部分是你不會去注意到的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10195">
+<P>有時候我的父母會說我太隨便，我不想否認，因為有時候我也會這麼覺得。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10196">
+<P>我唯一知道的，就是我要先做好自己的本分，用功唸書，才會有光明的未來，踏上成功的第一步。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10197">
+<P>雖然我也是這班級中的一份子，但也只是屬於可又可無的那一部分吧？ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10198">
+<P>在找尋的過程中，雖然容易被忽略，但是有時能出一分力，使班級更好，我也很開心。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10199">
+<P>很多人對它都完全不珍惜，沒幾天就打斷一根腳，刻上一隻烏龜。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10200">
+<P>書桌是一個很實用的工具，它非常地有用，寫字、讀書都要用到它。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10201">
+<P>書桌就等於考試，上課，因此它難免會讓人有點倒胃口。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10202">
+<P>如果有書桌，那就一定有桌墊及椅子，少了這三樣工具，我們可就不必上學啦！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10203">
+<P>教室說大不大，說小也不小，如果你用心去觀察的話，可以發現很多的事呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10204">
+<P>我所觀察到的是講桌內的空間，有很多東西可以從它肚子中拿出來，很像是小叮噹的百寶袋呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10205">
+<P>它不比百寶袋厲害，功能卻很多，它可以提供任課老師把書放在它的頭上，把沒收來的物品塞進肚子裡。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10206">
+<P>因為那些雜七雜八的小東西為了不讓別人在它頭上見著了，只好塞進它的肚子啦！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10207">
+<P>改天我們若是有什麼創意或巧思的話，說不定能幫它做一個大改造，使它煥然一新呢！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10208">
+<P>現在想想，有許多事物我們只因為習慣而視它為理所當然。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10209">
+<P>我從小，就一直很想當獸醫，救活無數個小生命，愛護著所有動物，這就是我的方向！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10210">
+<P>教室，是培養彼此友情的空間，教室，任何一處都是同學間的情感交流站。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10211">
+<P>接著，往後一轉，映入眼簾的是大夥兒精心的傑作－佈告欄。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10212">
+<P>教室，是保護我們的榆蔭處，教室，是象徵退步與進步的表格欄。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10213">
+<P>每一天、每一堂課黑板上都有著不同的、有趣的內容，而這些內容全藉著黑板來告訴我們。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10214">
+<P>老師上課時把最精華、也是最重要的知識藉由黑板來傳授給我們。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10215">
+<P>教室的一隅中，黑板是在我們人生求學中最重要的一項物品。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10216">
+<P>在一間教室中，每天最熱鬧、最精采、老師最熟、同學最常注視的地方就是黑板。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10217">
+<P>在我剛升上七年級，換了新的教室、桌椅，教室內的每樣東西都讓我感到陌生、新鮮。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10218">
+<P>讓我們無時無刻都必須盯著它看，但它卻從來不害羞，坦蕩蕩地秀給我們看。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10219">
+<P>教室一隅裡帶給了我、甚至全班許多不一樣的歡樂，但我們需要更加地愛護它，讓它繼續成為最精彩的角落。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10220">
+<P>教室是我們讀書的地方，讀書要有乾淨的環境，有乾淨的環境才能讀好書。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10221">
+<P>黑板、課桌椅、佈告欄等，無一不使我感到如此舒適。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10222">
+<P>不同的景象，真的實際觀察起來都別有一番風味。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10223">
+<P>坐在教室一隅，許多往事若隱若現，模糊不清，是它，建立起朋友間的信任。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10224">
+<P>不管是看書、睡午覺，都需要它，所以它對學生來說十分地重要，它就是課桌。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10225">
+<P>尤其是在它切割的方面，需要有很好的技術和經驗。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10226">
+<P>放置垃圾桶的角落，是大家最討厭的，也是最需要的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10227">
+<P>但是如果沒有它，那教室可能會變成一個小型垃圾場。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10228">
+<P>我覺得教室，可能還有我沒發現的角落，只是我沒仔細去看到，發現到的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10229">
+<P>教室，是我的第二個家，在這裡度過生活、吃飯、睡覺、上課、玩樂……，很多事情都是在這裡完成的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10230">
+<P>正當大伙們累得半死，終於大功告成了，如此偉大工程終於結束了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10231">
+<P>久而久之，教室變成了我第二個家，也漸漸地和教室有了密不可分的關係。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10232">
+<P>人生就像是這面黑板，在黑暗的社會中，跌跌撞撞，在崎嶇的道路上，努力地想走出一條路。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10233">
+<P>身為一個學生，最清楚熟悉的地方，當然是自己環上的教室。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10234">
+<P>平凡無奇的教室裡，能學的不只是課本上的，在觀察中，我們也能發現一點其它的什麼。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10235">
+<P>我從來就沒有很仔細地觀察教室，通常也沒有人會仔細地觀察教室。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10236">
+<P>在教室裡最會被需要的東西就是垃圾桶了，也是最亂最難打掃整理的地方了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10237">
+<P>只要在教室裡，每天都會有人在打鬧，也會有人在聊八卦。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10238">
+<P>教室是我最熟悉的地方，因為待在這裡的時間比待在任何地方還要久。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10239">
+<P>有時候仔細觀察教室裡的小一些小角落，真的會發現令人意想不到的東西，十分有趣。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10240">
+<P>我想這些東西只會在我們班出現吧！不過聽起來很新奇，也很有趣。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10241">
+<P>這裡像是訴苦的對象，什麼事情都知道，所以我對這感觸最深。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10242">
+<P>在以前的教室裡也會覺得那個感覺比較好，上課的時候也比較好上，換了新教室後就不一樣了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10243">
+<P>偶爾也會想看以前的教室，因為這樣，有時也會想起在那裡發生的事情，真的是酷斃了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10244">
+<P>在我們班教室，黑板對我來說，有很特殊的意義。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10245">
+<P>有些人就在上隨意塗鴉，甚至寫一些不堪入目的話語。我對這種行為感到非常可恥、受不了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10246">
+<P>我都要幫黑板洗澡、換新衣服，好讓隔一天上課的老師能帶著愉快輕鬆的心情。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10247">
+<P>黑板不只是個不說話的老師，也提醒了我們今天或者什麼時候要做什麼事、完成什麼作業。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10248">
+<P>當要離開教室把自己的辛苦和努力拆下來時，老實說真的有點傷心和不捨。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10249">
+<P>但對我來說那些東西很重要，因為這上面有的不是寶石，而是那個珍貴的回憶，在教室有很多回憶。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10250">
+<P>對我們這群正值青春期的國中生來講，可以一邊吃飯，一邊聊天的午飯時間更是一件不可錯過的美事。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10251">
+<P>這可能是不受教、違反紀律的一種行為，看在眼裡的我，卻認為這是最熱鬧活潑的教室一隅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10252">
+<P>希望同學之間的情誼，也能一天比一天地堅固深厚，直到永遠。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10253">
+<P>下課的時候，大家能一同玩耍、嬉笑、待在教室裡談天說地，去操場揮灑汗水。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10254">
+<P>我可以用較寬廣的視線看班上大家在做些什麼，愛發呆的我，更容易找到新鮮事去觀察。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10255">
+<P>窗台邊，有時會有昆蟲，似乎是因為有食物碎片留在那兒吧！我開始觀察牠們如何移動、往何處移動。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10256">
+<P>人們總是抱怨這個，討厭那個，不瞭解合作的力量。反而常常和朋友吵架呢……！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10257">
+<P>想著螞蟻們的團結，教室一隅，處處都有東西讓我們學習，有事情悄悄地在發生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10258">
+<P>不同於以往的，不是位置，不是同學，也不是跟著歲月增厚的眼鏡鏡片，而是從前沒有的大鐵櫃。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10259">
+<P>他的任務很稀鬆平常，放考卷、放講義、放校慶鬼屋的道具，甚至連家政課做壞的作品也都丟在那裡面。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10260">
+<P>好巧不巧地，那枝筆落在我的手中，我那群很有良心的同學讓我扛了全責，沒辦法！擦乾淨吧！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10261">
+<P>我才赫然發現，鑰匙孔早已鬆脫，從上面看得出歲月的痕跡，霎時間，我竟然對他起了憐憫心。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10262">
+<P>想起他，就會將抹布浸濕，好好地端詳一番，給他比總統還高級的待遇。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10263">
+<P>最令人注目的地方應該是講台吧！上課時，大家一定都盯著講台，專心地聽著台上老師的諄諄教誨。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10264">
+<P>我們班的講台呀！從以前到現在，裡面堆滿了一堆雜物，像飲料、報紙、粉筆、垃圾袋啦…等等。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10265">
+<P>各種喜悅感動，填滿了教室空蕩的角落，讓教室充滿了愛和熱情。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10266">
+<P>即使被我們弄得傷痕纍纍，它仍心甘情願對我們付出，讓我們每天的校園生活都充滿了歡笑。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10267">
+<P>教室裡總是發生著許多的事情，仔細去觀察教室一隅是不是會有所感想呢？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10268">
+<P>教室的任何一處或許都能讓人有些感傷，有些情感，有些好或不好的回憶。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10269">
+<P>我們與朋友之間的種種情感總是發生在教室一隅，可見教室任何一處對我們來說都是很重要的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10270">
+<P>教室任何一處總是能發生令我悲傷、快樂、憤怒的事情，所以我想在我的回憶當中永遠都不會缺少－教室一隅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10271">
+<P>教室的黑板是我們每天都要用的物品，無論是學習或教導。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10272">
+<P>老師每天都在傳達知識給我們，而教室的黑板成為了維持師生關係的橋。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10273">
+<P>黑板，雖然它不會說話，但它總是無怨無悔地付出，讓老師在它身體上寫字。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10274">
+<P>每天都看得到的東西，想必一定不會特別在意吧！ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10275">
+<P>仔細地去觀察生活週遭的每一個角落，體會一下身處這個地方的自己，想想它為了我們付出了什麼？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10276">
+<P>教室，是學生們待最久的地方之一，各種地方都讓人有不同的感覺。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10277">
+<P>我們男生下課之後最常做的事就是立刻抱著籃球，衝到球場，痛快地在場上廝殺。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10278">
+<P>老師一宣佈下課，他們就像是升空的火箭，不浪費一絲一毫的時間，跑向架子。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10279">
+<P>難過的人留在角落，自己靜一靜，而開心的人，就在同學聚集的地方，分享他的喜悅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10280">
+<P>換了新教室或新座位，常常不滿意周圍的環境，也換了新的桌椅。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10281">
+<P>上課無聊時，就會拿出立可白或油性筆在桌上塗鴉，班上有些人也會在我桌上寫東西，桌面就變得又髒又亂。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10282">
+<P>我們要珍惜自己的桌椅，不要上面塗鴉，更不要把它弄壞。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10283">
+<P>所有的學生上課的地方也是教室，睡覺的地方也是教室。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10284">
+<P>教室裡的課桌椅就是我們最貼切的小幫手了，不但讓我可以坐著，還可以讓我們睡覺呢。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10285">
+<P>教室對學生而言，應該算是我們的第二個家。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10286">
+<P>我有時也拿起立可白，恣意地在上面亂塗，或寫下本班的班對，讓學弟妹們知道我們學長姐的愛戀史。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10287">
+<P>雖然不多，但上面也有我們從七年級到現在所爭取到的獎狀，那是只屬於我們這一班無可取代的榮譽。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10288">
+<P>在其中學習，也在其中成長，更恣情享受著友誼的滋潤。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10289">
+<P>教室，是學生聽講、讀書的環境，也是成長必經的地方，更是求學階段必經的場所。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10290">
+<P>想到教室，便會聯想到老師的教書聲，繁重的課業，無不讓人感到壓力。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10291">
+<P>教室對國小生、國中生、高中生、大學生、研究所生，一定有一份濃厚的情感存在。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10292">
+<P>國文老師說：「樹葉的方向，由風來決定；人的方向，由自己來決定。」</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10293">
+<P>德蕾莎修女的故事讓我好敬佩，救人不看對象，當他需要我們幫助時，就盡最大的力量來幫助他。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10294">
+<P>人的方向是由自己來決定，決定了之後，就要朝著方向走前進，永不後悔自己當初所選的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10295">
+<P>海水的方向是靠風和海流決定；向日葵的方向是以太陽來決定的；而人的方向，是由自己來決定。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10296">
+<P>我們的方向有時會隨著週遭環境的影響而改變。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10297">
+<P>我的方向是想要去當一個正直、善良的人，時常去幫助別人，善待別人，不要使他人痛苦。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10298">
+<P>要對自己有信心，對自己的方向努力前進，但是不要太勉強，一定會有人在背後為你加油。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10299">
+<P>但是當一位獸醫非常困難，讓我很沒有把握，不知道應該繼續，還是該放棄。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10300">
+<P>把握方向就像是把握機會，如果你想要達成目標，必定要長時間地「苦練、磨練」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10301">
+<P>每個人都有一個自己一心一意想前往的方向，不過大家卻都不相同。至於我，則是想往警察這方向走。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10302">
+<P>一個人的想法是好或壞，都會大大影響自己的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10303">
+<P>所以人的方向是由自己來決定的，我也要努力的往警察這方向走，多加油，我相信成功是指日可待的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10304">
+<P>他們或許知道自己前往的目的地，但是在人生道路上，他們所朝的方向，可能連自己也毫無頭緒。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10305">
+<P>人生的方向，是受人影響的，若老師叫我們殺人放火，可能會有同學真的去做。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10306">
+<P>我的方向，不願輕易受到他人左右。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10307">
+<P>慍怒的母親，「又考個不及格！看你以後怎麼當個醫生！」那句話，在我腦海裡飄蕩，深深地刺入我心。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10308">
+<P>「方向」的定義因人而異，人生也算是方向之一。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10309">
+<P>當人生脫離青年時期時，就要為將來的生活盤算。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10310">
+<P>我小學時，就努力地補好英文，英文流利可是很重要的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10311">
+<P>成長過程中，只要是看到飛機模型甚至是車的我都會被吸引住。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10312">
+<P>從小到大，我對飛機的熱忱是無人可敵，在我心中對於飛機的那份熱忱是永遠不會熄滅的！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10313">
+<P>我的心要朝什麼方向走？而又要如何選擇方向和把握方向，去造就一個自己不悔又七彩繽紛的人生？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10314">
+<P>我們去學校，學的不只是學科知識，更重要的是學習團隊的精神和做人的智慧。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10315">
+<P>你就有了目標，有了目標，你就有了行動，有了行動，你就有了成功的一大半。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10316">
+<P>我個人認為我要走的方向要由自己決定，不要沒有自己的主見。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10317">
+<P>那人呢？人的方向要交給誰來決定？答案就是自己！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10318">
+<P>自己的方向可從北方走，可從南方走，但是不要抄小路，這會影響到自己的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10319">
+<P>只要不打假球；不吃禁藥，享受打籃球的過程，那麼就是一位正直，令人尊敬的球員。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10320">
+<P>方向是什麼？人生中有多少方向？你的方向在哪？曾經找尋過方向嗎？現在還在尋覓中嗎？找到了嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10321">
+<P>方向有很多種，如：「課業上的方向，就業上的方向等……。」方向是每個人預測不到的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10322">
+<P>還未找到方向的人不必心急，認真體會，努力勤學，不用多久一定能夠掌握自己人生的「方向」。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10323">
+<P>每個人的人生方向，都有不同的方向，有的以後要當老師，有的以後則要當職業的運動員。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10324">
+<P>如果自己不能決定自己的人生方向，我想也沒有人可以為你決定方向。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10325">
+<P>「做人要往好的方向走，若踏上不歸路，到時後悔也來不及了。」這是爸爸媽媽常對我說的話。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10326">
+<P>什麼是好的方向？又什麼是不歸路？過去的我對這些抽像的詞字，完全不瞭解。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10327">
+<P>我步入國中後，才瞭解到這句話的意思，我們的「心」想什麼，都會影響到我們接下來的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10328">
+<P>我不會在意別人的想法、看法，因為我自己的人生方向，由我自己來決定、來主張。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10329">
+<P>方向總是人們最重要的事，因為它可以讓人們知道該去做什麼事，或是下一步該怎麼走才是最好的選擇。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10330">
+<P>不過我們在一天中，也要對自己未來的方向而努力，不要到了要達成目標時才臨渴掘井。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10331">
+<P>雖然說要自己決定目標，不過我對自己未來的方向不是很確定。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10332">
+<P>如果每一個人都可以做到自己想要的方向的話，那麼那一個城市一定就會變成最適合人住的地方了。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10333">
+<P>人生的過程就像是一個漫長而艱辛的旅途。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10334">
+<P>相反地，如果走上壞的方向，不但害到自己，更會害到別人。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10335">
+<P>由上面兩個例子可以知道，慎選好的方向並去貫徹它是極為重要的事情，一個人的人生會因此改變的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10336">
+<P>如果人生沒有了方向，就等於沒有目標，沒有目標，就不會努力。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10337">
+<P>有句話說：「機會是留給準備好的人。」當你已經準備好了，機會就會自動找上門，不錯失任何機會。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10338">
+<P>總而言之，方向，就是有目標，然後朝著這個目標一直努力下去。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10339">
+<P>有時候，把一件倒霉的事物換個方向思考，會有不一樣的結果哦！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10340">
+<P>女兒嚇得呆若木雞，像被雷打到一樣，久久無法動彈，她心想：「媽媽發現後一定會對我破口大罵！」</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10341">
+<P>她換一個「方向」用溫柔婉約的口吻請求女兒和他一起清理，這麼做，不是兩全其美嗎？ </P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10342">
+<P>不要讓當下的衝動、憤怒控制了你，這樣不僅不會傷害到別人，還可以替自己的人際關係加分哦！</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10343">
+<P>正向和負向雖然就在一念之間，不過這一念之間說出來、做出來的動作可是天差地遠。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10344">
+<P>蒲公英的方向，隨著風而定，我的方向，我自己來決定。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10345">
+<P>學校的老師常說：「現在讀不讀書，會關係到以後找不找得到工作。」意思是在勸我們努力讀書、奮發向上。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10346">
+<P>但只要肯努力，沒有什麼事是辦不到的，所以，我認為爸媽兇我是在為我鋪路，引導我走正確的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10347">
+<P>人生的方向是由自己主宰，我們不必像樹葉一樣，像蒲公英一樣，任憑別人來決定，人生是掌握在自己手中的。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10348">
+<P>我的人生方向是當一位廚藝精湛的廚師，燒出一手好菜，使吃過我所做的菜的人都能洋溢著幸福的感覺。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10349">
+<P>俗話說：「近朱者赤，近墨者黑。」因此，交朋友也是一門學問。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="10350">
+<P>自己的方向，是掌握在自己的手中，如果沒有方向，就會被殘酷的現實淘汰。</P>
+<TEXT>
+<MISTAKE wrong_position=0>
+</MISTAKE>
+</TEXT>
+</DOC>

@@ -1,0 +1,3499 @@
+<DOC Nid="00001">
+<P>我看過許多勇敢的人，不怕措折地奮鬥，這種精神值得我們學習。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>措折</WRONG>
+<CORRECT>挫折</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00002">
+<P>有一天的晚上，大家都睡得很安祥，突然一陣巨晃，我們家書貴倒了，這次地震驚動了全國。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>書貴倒</WRONG>
+<CORRECT>書櫃倒</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00003">
+<P>有幾千個人甚至萬人，無家可歸，受這樣大的打擊，想必他們很煩腦吧！雖然發生這樣的事件，但大家並沒有放棄。</P>
+<TEXT>
+<MISTAKE wrong_position=30>
+<WRONG>煩腦</WRONG>
+<CORRECT>煩惱</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00004">
+<P>我覺得他們擁有不怕固難勇於面對的心，是不在災區的我們所沒有的。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>固難</WRONG>
+<CORRECT>困難</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00005">
+<P>還記得那天零晨正在美好的睡夢中，忽然來一個地牛大翻身，嚇壞了全台灣的人。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>零晨</WRONG>
+<CORRECT>凌晨</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00006">
+<P>一襲強烈的颱風掃過大地，為大地帶來了新的面貌，強壯的樹木經不起大雨的打擊，倒了。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>經不起</WRONG>
+<CORRECT>禁不起</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00007">
+<P>人生就是如此，經過磨練才能讓自己更加拙壯，才能使自己更加樂觀。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>拙壯</WRONG>
+<CORRECT>茁壯</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00008">
+<P>重新面對陽光時，又是令一種氣象，我們不就該像大自然一樣堅強地面對未來嗎？</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>令一種</WRONG>
+<CORRECT>另一種</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00009">
+<P>一些人可能在生命中出了一件事故，使得往後的人生，從此變的不同，而這場事故又何嘗是件壞事呢？</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>變的</WRONG>
+<CORRECT>變得</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00010">
+<P>我們應該要像大自然一樣，風雨過後，又是一翻新的氣象，不要在原地自生自滅。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>一翻新的氣象</WRONG>
+<CORRECT>一番新的氣象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00011">
+<P>在南韓也發生同樣的事情，擁有六百一十年歷史的崇禮門，象徵著南韓人的精神，也在一夕之門，被火燒得精光。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>一夕之門</WRONG>
+<CORRECT>一夕之間</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00012">
+<P>樂透是每個人都想捉住的，有人只是買好玩，郤不小心中了，有人則是買了幾百萬次都拿不到。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>郤不小心</WRONG>
+<CORRECT>卻不小心</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00013">
+<P>逆境往往造究了順境的完美道路，一次一次的失敗，堆疊成一個一個的大成功。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>造究</WRONG>
+<CORRECT>造就</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00014">
+<P>我有個親人平常就不務正業，一天他出了車禍，還好小命保住了，幸好有這場車禍喚起他淺在的意識，不然他可能要白白荒廢一生吧！</P>
+<TEXT>
+<MISTAKE wrong_position=40>
+<WRONG>淺在的</WRONG>
+<CORRECT>潛在的</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00015">
+<P>人生又何償不是如此？沒被淘汰留下來的人，必定擁有最堅決的意志力，不會因為任何原因或挫折而放棄希望。</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>何償不是</WRONG>
+<CORRECT>何嘗不是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00016">
+<P>拿謝坤山為例，他也是經勵了一段很痛苦的人生，因為被高壓電電到的關係，少了一隻腳、二隻手和一個眼睛。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>經勵</WRONG>
+<CORRECT>經歷</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00017">
+<P>王建民，還沒成名之前，待在小聯盟默默努力、默默耕耘，這些事情都是在他成為王排投手之前我們所看不到的。</P>
+<TEXT>
+<MISTAKE wrong_position=38>
+<WRONG>王排投手</WRONG>
+<CORRECT>王牌投手</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00018">
+<P>有些人會拿這次的教訓來勉勵自己，好讓自己在打混摸魚時警悌，使自己比以前更好、更進步。 </P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>警悌</WRONG>
+<CORRECT>警惕</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00019">
+<P>有時候同學的嘻笑怒罵，老師就會大聲地拍黑板；下課時間，有些人會在黑板上玩遊戲，那也是同學們聯絡情感的一個管道。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>嘻笑怒罵</WRONG>
+<CORRECT>嬉笑怒罵</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00020">
+<P>看到這些在教室的景物，感覺到這些事物，往後會慢慢減少出現在我眼廉。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>眼廉</WRONG>
+<CORRECT>眼簾</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00021">
+<P>我們不如一起來珍惜現在所擁有的，以後不致於忘塵莫即啊！</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>忘塵莫即</WRONG>
+<CORRECT>望塵莫及</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00022">
+<P>教室中，每一樣東西都有特絑的意義，例如：課桌椅是上課時都會用到的，講桌是老師擺放東西和用棍子敲，以制止同學們講話用的。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>特絑</WRONG>
+<CORRECT>特殊</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00023">
+<P>既沒有廢氣，也沒有森林的芳多精，但很奇妙地卻有一股書香味。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>芳多精</WRONG>
+<CORRECT>芬多精</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00024">
+<P>公佈欄，上面訂著我們班努力得到的獎狀、大家辛苦創作的作品。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>訂著</WRONG>
+<CORRECT>釘著</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00025">
+<P>黑板則是公共的愉樂場所，同學們總是拿著磁鐵往黑板丟，看誰較準。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>愉樂</WRONG>
+<CORRECT>娛樂</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00026">
+<P>這一隅總會毫不客氣地吸引大家的注意；時而淡裝，時而濃抹，時而流行，時而復古。</P>
+<TEXT>
+<MISTAKE wrong_position=22>
+<WRONG>淡裝</WRONG>
+<CORRECT>淡妝</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00027">
+<P>有傷心的事件卻想竭力隱藏，只告訴我們那些無私的大愛，善行的光茫。</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>光茫</WRONG>
+<CORRECT>光芒</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00028">
+<P>過去的華美，只剩下今日的拼補，豐富的學識更如海綿受到壓迫而盪然無存。</P>
+<TEXT>
+<MISTAKE wrong_position=30>
+<WRONG>盪然無存</WRONG>
+<CORRECT>蕩然無存</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00029">
+<P>上課時坐在教室內聽課，下課時在教室裡嘻鬧，但你有仔細觀察每一個角落嗎？ </P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>嘻鬧</WRONG>
+<CORRECT>嬉鬧</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00030">
+<P>現在己經八年級，每當我抬起頭看著時鐘，就覺得跟同學相處的時間一分一秒地消失。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>己經</WRONG>
+<CORRECT>已經</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00031">
+<P>一但停擺，那一整天大家都在互相問時間，果然少了它是不行的。</P>
+<TEXT>
+<MISTAKE wrong_position=2>
+<WRONG>一但</WRONG>
+<CORRECT>一旦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00032">
+<P>看似不重要的時鐘，其實早以是我們教室不可或缺的一部分了。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>早以是</WRONG>
+<CORRECT>早已是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00033">
+<P>同學們在打打鬧鬧，這無辜的桌子也免不了遭到池魚之央的命運。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>池魚之央</WRONG>
+<CORRECT>池魚之殃</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00034">
+<P>又或著被淪為神準大賽的目標物，接著只見五顏六色的粉筆劃破了天際。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>或著</WRONG>
+<CORRECT>或者</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00035">
+<P>不知這磈可憐的黑板最後會變成怎麼樣呢？</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>這磈</WRONG>
+<CORRECT>這塊</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00036">
+<P>最熟悉的地方必定是教室，上課時坐在教室內聽課，下課時在教室裡嘻鬧。</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>嘻鬧</WRONG>
+<CORRECT>嬉鬧</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00037">
+<P>成為垃圾桶可真不簡單，還要擁有正面、樂觀的思想，在旁人唾棄你時，不能棄餒。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>棄餒</WRONG>
+<CORRECT>氣餒</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00038">
+<P>大家平時為了當上各週第一名，可使出渾身解術，它驗證著各小組的進步和退步。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>渾身解術</WRONG>
+<CORRECT>渾身解數</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00039">
+<P>黑板上有著老師抄得筆記，有著同學們下課塗鴉等有趣的東西。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>抄得</WRONG>
+<CORRECT>抄的</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00040">
+<P>它是個在平凡不過的東西了，但是它卻是在我們學習時佔有非常重要的位置。</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>在平凡不過</WRONG>
+<CORRECT>再平凡不過</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00041">
+<P>大家都喜歡利用黑板，把自己的創意展現在黑板上，而有些人卻把它拿來玩「圈差」。</P>
+<TEXT>
+<MISTAKE wrong_position=36>
+<WRONG>圈差</WRONG>
+<CORRECT>圈叉</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00042">
+<P>因為這個教室擠了快四十人，當然是既熱鬧又吵雜，使這個班級有了很不一樣的氣份。</P>
+<TEXT>
+<MISTAKE wrong_position=37>
+<WRONG>氣份</WRONG>
+<CORRECT>氣氛</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00043">
+<P>等滿的時候就要拿去垃圾場倒，外面也會包塑膠帶啦！如果沒有它，我們的教室一定世界級的髒！</P>
+<TEXT>
+<MISTAKE wrong_position=22>
+<WRONG>塑膠帶</WRONG>
+<CORRECT>塑膠袋</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00044">
+<P>佈告欄轉眼之間從不起眼的醜小鴨變成了高貴優雅的天鵝！謹管這大改造沒有得名，但過程也是很可貴的。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>謹管</WRONG>
+<CORRECT>僅管</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00045">
+<P>學校的課桌椅大不分在上面都有許多的塗鴉，因為這樣所以顯得每一個課桌椅的獨一無二。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>大不分</WRONG>
+<CORRECT>大部分</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00046">
+<P>垃圾桶它無所不在，家裡、路上、公車站等都有它的蹤蹟，可以算是每個人長大的東西。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>蹤蹟</WRONG>
+<CORRECT>蹤跡</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00047">
+<P>剛近到教室的那一天，所有大大小小的東西，都是新的。</P>
+<TEXT>
+<MISTAKE wrong_position=2>
+<WRONG>近到教室</WRONG>
+<CORRECT>進到教室</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00048">
+<P>為了佈置它，我交盡腦汁，到書店，翻閱書本，尋找適合的版面，想把教室佈置得很溫馨。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>交盡腦汁</WRONG>
+<CORRECT>絞盡腦汁</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00049">
+<P>因為有了大家的工勞，有了它，教室的氣氛，溫馨了許多。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>工勞</WRONG>
+<CORRECT>功勞</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00050">
+<P>這一塊黑板，真的令我深深地敬偑這沉默而偉大的巨人，這樣的付出。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>敬偑</WRONG>
+<CORRECT>敬佩</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00051">
+<P>這也使我連想到了人類的環境的破壞，一天一天地惡化，卻又有多少人願意出手幫忙？</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>連想到</WRONG>
+<CORRECT>聯想到</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00052">
+<P>想想，從小學到國中己經換了不少的教室，每個教室都會讓人稱讚或是嫌棄。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>己經</WRONG>
+<CORRECT>已經</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00053">
+<P>換教室的時候，會有一點捨不得，在那教室一年裡充滿一點一滴的所有回億也因此要分開了。</P>
+<TEXT>
+<MISTAKE wrong_position=33>
+<WRONG>回億</WRONG>
+<CORRECT>回憶</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00054">
+<P>不管是好的還是壞的，總是會想起一些回億。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>回億</WRONG>
+<CORRECT>回憶</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00055">
+<P>就只有做錯事的時候被老師罵，覺的很不開心，小時候還會討厭罵我的老師。</P>
+<TEXT>
+<MISTAKE wrong_position=16>
+<WRONG>覺的</WRONG>
+<CORRECT>覺得</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00056">
+<P>有時還會玩掃具被老師罰站，想起來感覺很幼智，可是真的很好玩。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>幼智</WRONG>
+<CORRECT>幼稚</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00057">
+<P>下課也可以聊天、打球等，都過的很快樂，可是我很討厭考試，所以就只有考試是讓我不開心。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>過的</WRONG>
+<CORRECT>過得</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00058">
+<P>我覺得在教室裡只要人員好每天都能過得很開心，可是功課壓力不要太大就好了。</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>人員好</WRONG>
+<CORRECT>人緣好</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00059">
+<P>在教室會發生許多好玩的，令你驚奇的事，教室的每一個第方都有他獨特的一面呢！</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>第方</WRONG>
+<CORRECT>地方</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00060">
+<P>在來就是黑板了吧！每天看著老師上課，不知不覺中我對黑板感到像是親人一般的感情。</P>
+<TEXT>
+<MISTAKE wrong_position=1>
+<WRONG>在來就是</WRONG>
+<CORRECT>再來就是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00061">
+<P>原本一男一女交叉排列的整齊教室全變了樣，男女各分東西成了午餐時間理所當然的景像。</P>
+<TEXT>
+<MISTAKE wrong_position=39>
+<WRONG>景像</WRONG>
+<CORRECT>景象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00062">
+<P>牠們協力推著、拉著、搬著，一大群螞蟻行成了一條路，慢慢地將食物送往心愛的窩。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>行成了</WRONG>
+<CORRECT>形成了</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00063">
+<P>而牠們的群體出現，只是為了一塊，對我們人類來說，微不足蹈的小碎屑！ </P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>微不足蹈</WRONG>
+<CORRECT>微不足道</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00064">
+<P>在這裡，我們經歷了老師的教導，同學的嘻笑怒罵等等，多不勝數。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>嘻笑</WRONG>
+<CORRECT>嬉笑</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00065">
+<P>看到黑板，總會讓我想到每位辛苦的老師，他們的身影便會出現在我的惱海中。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>惱海中</WRONG>
+<CORRECT>腦海中</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00066">
+<P>老師對我們的諄諄教誨，就是希望我們將來在社會上能出人投地，並且有份好工作！ </P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>出人投地</WRONG>
+<CORRECT>出人頭地</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00067">
+<P>教室對我們而言，大慨是充滿回憶的地方吧！</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>大慨是</WRONG>
+<CORRECT>大概是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00068">
+<P>他不會去記仇，我們要學習他的不記深仇和像君子一般正值的心。</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>正值的</WRONG>
+<CORRECT>正直的</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00069">
+<P>時常下課時我會走到教室後面的怖告欄看看，那裡貼的東西都很令我感興趣。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>怖告欄</WRONG>
+<CORRECT>佈告欄</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00070">
+<P>在教室的怖告欄上所貼的文章都非常有趣，文章中的內容使我增廣見聞。</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>怖告欄</WRONG>
+<CORRECT>佈告欄</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00071">
+<P>這佈告欄，一路下來，它始終在教室的後方任我們怖置，雖然它是一個佈告欄，但它卻像有生命一樣地讓我們使用。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>怖置</WRONG>
+<CORRECT>佈置</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00072">
+<P>電視上，看到非洲的人民因食物匱乏沒東西吃，受病魔的折磨，最後因支撐不住生亡。</P>
+<TEXT>
+<MISTAKE wrong_position=36>
+<WRONG>生亡</WRONG>
+<CORRECT>身亡</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00073">
+<P>修女撞見並沒嫌婦女噁心，而是把她抱到醫院給醫生治潦，後來因急救不治，身亡了。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>治潦</WRONG>
+<CORRECT>治療</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00074">
+<P>這就是我們常說的：「進朱者赤」。自己的方向有時也會因為週遭而偏移。</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>進朱者赤</WRONG>
+<CORRECT>近朱者赤</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00075">
+<P>有些動物很可憐，不是被人們淩虐，便是因為生病的關係，每次看到牠們那害怕的表情，讓我覺得很可憐。</P>
+<TEXT>
+<MISTAKE wrong_position=14>
+<WRONG>淩虐</WRONG>
+<CORRECT>凌虐</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00076">
+<P>我們的導師說：「遇到困難，不能輕意半途而廢。」獸醫是我人生的方向，也可能是我未來的工作。</P>
+<TEXT>
+<MISTAKE wrong_position=16>
+<WRONG>輕意</WRONG>
+<CORRECT>輕易</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00077">
+<P>鳥的方向，由季節決定；向日癸的方向，由太陽決定；而我的方向，要由我自己決定。</P>
+<TEXT>
+<MISTAKE wrong_position=14>
+<WRONG>向日癸</WRONG>
+<CORRECT>向日葵</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00078">
+<P>國小同班的一個同學，上了國中後開始變壞，才開學不久就被計警告。我很驚訝！我的好朋友說：「他好像是被壞學生影響。」</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>計警告</WRONG>
+<CORRECT>記警告</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00079">
+<P>他因為一個念頭，走上了一條不該走的路，在也回不到最原始、美好的那條路上。</P>
+<TEXT>
+<MISTAKE wrong_position=20>
+<WRONG>在也回不到</WRONG>
+<CORRECT>再也回不到</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00080">
+<P>因此我們必須從現在開始培養好自己的價值觀，才不會走向不好的方向，而當我們察覺到時，也可能已危時已晚了。</P>
+<TEXT>
+<MISTAKE wrong_position=46>
+<WRONG>危時已晚</WRONG>
+<CORRECT>為時已晚</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00081">
+<P>在「左賀的超級阿嬤」一片中，阿嬤家境清寒，甚至三餐不繼，但她總能微笑面對。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>左賀</WRONG>
+<CORRECT>佐賀</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00082">
+<P>在人生的道路上，我朝著這樣的方向前進，絕不會猶欲或退縮。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>猶欲</WRONG>
+<CORRECT>猶豫</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00083">
+<P>我總是排迴在一條叉路，是左還是右，我在一番苦惱之中，有了答案，不如當個醫生吧！</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>排迴</WRONG>
+<CORRECT>徘徊</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00084">
+<P>她說：「能看到學生快樂地成長，給了我機會，讓我能如願以賞地實現夢想。」我多希望我也能當個醫生，拉他們一把。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>如願以賞</WRONG>
+<CORRECT>如願以償</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00085">
+<P>「傻孩子，要當醫生就要努力啊！找握你的「方向」」那句方向特別大聲，彷彿在告訴我要開始踏上「醫生之道」了。</P>
+<TEXT>
+<MISTAKE wrong_position=16>
+<WRONG>找握</WRONG>
+<CORRECT>掌握</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00086">
+<P>母親的諫言，我牢記在心，我的那張「白紙」的紅字已經少了很多。我不再迷網，「做任何事都不要事後再後悔」。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>迷網</WRONG>
+<CORRECT>迷惘</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00087">
+<P>這句話是我人生的一個轉淚點，相當重要，當時雖然還小，還過著有點懵懂無知的生活，不過這句話足以使我恍然大悟。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>轉淚點</WRONG>
+<CORRECT>轉捩點</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00088">
+<P>從嬰兒時期一路到壯年時期，其中歷經著無數的艱辛與挑戰，但這一路不是說都有父母倍伴著。</P>
+<TEXT>
+<MISTAKE wrong_position=39>
+<WRONG>倍伴</WRONG>
+<CORRECT>陪伴</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00089">
+<P>有時候選擇人生方向也是一種運氣，但見人見志，大家的目標不見得是一致的。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>見人見志</WRONG>
+<CORRECT>見仁見智</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00090">
+<P>當一隻只會模彷、學別人的鸚鵡，只會人云亦云，只會附和別人，一點自己的主見都沒有。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>模彷</WRONG>
+<CORRECT>模仿</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00091">
+<P>交朋友，最重要的就是教學相長、互相扶持。而不是互相影響、互相沉倫、一起去做不對的事情。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>沉倫</WRONG>
+<CORRECT>沉淪</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00092">
+<P>年輕的時候，把握當下，告訴自己正確的方向，正確的道路在哪裡，不要一時胡塗，而讓自己悔不當初。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>胡塗</WRONG>
+<CORRECT>糊塗</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00093">
+<P>方向，對我而言，是再熟不過遞了，從已前到現在，每次在上足球課時，都一直提到這兩個字。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>已前</WRONG>
+<CORRECT>以前</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00094">
+<P>我用迅雷不及奄耳的速度帶球衝到球門前，「55度」這一個聲音，突然出現在我腦海裡，於是，我真的踢進了。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>迅雷不及奄耳</WRONG>
+<CORRECT>迅雷不及掩耳</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00095">
+<P>他們要我踢102度，而我也真的踢中了。二連罷，我來了。</P>
+<TEXT>
+<MISTAKE wrong_position=22>
+<WRONG>連罷</WRONG>
+<CORRECT>連霸</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00096">
+<P>方向和我們的生活息息相觀，有時走錯方向就完了。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>息息相觀</WRONG>
+<CORRECT>息息相關</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00097">
+<P>當時我走錯路真的就完了，努力全白廢了。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>白廢</WRONG>
+<CORRECT>白費</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00098">
+<P>要在六點前回家，我不可能來得急！跑到一半發現我走錯路了，便繼續走那條錯路，結果還比之前走的路還快。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>來得急</WRONG>
+<CORRECT>來得及</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00099">
+<P>想要把握機會，就要準備好，一有機會就樸身去搶，而不是像守株待兔般地等待機會。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>樸身去搶</WRONG>
+<CORRECT>撲身去搶</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00100">
+<P>要成為球員不單單只是苦練，從小就要養成誠實、正直的個興。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>個興</WRONG>
+<CORRECT>個性</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00101">
+<P>在人生中有千千萬萬種方向，只等你自己的選則，只要踏了第一步，就不能夠再後退了！</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>選則</WRONG>
+<CORRECT>選擇</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00102">
+<P>方向都是我自己一而在，再而三所挑選的，無人能阻止我的選擇，雖然這條路只走了三分之一，但我不會後悔選擇這條路。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>一而在</WRONG>
+<CORRECT>一而再</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00103">
+<P>我常常覺得方向的選擇要看的是興趣，但如果只有興趣而不努力，再怎麼喜歡也是沒辦法答成人生的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=40>
+<WRONG>答成</WRONG>
+<CORRECT>達成</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00104">
+<P>不要等方向走了，你才在後悔，或選擇其他自己不善長的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>善長</WRONG>
+<CORRECT>擅長</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00105">
+<P>每個人都有一些自已未來人生的方向，不管方向是什麼，都是和努力、態度有很大的關係。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00106">
+<P>把握自已未來的方向，我們可以以個人的興趣等來選擇未來的方向，並多去瞭解所想選擇的方向，才不會對選擇的方向後悔。</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00107">
+<P>自己的方向到了最後如果希望可以很成功，一分耕雲一分收穫，如果想要有好的收穫，就要辛苦地耕雲，不可能什麼也沒做就會有好的收穫。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>一分耕雲一分收穫</WRONG>
+<CORRECT>一分耕耘一分收穫</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00108">
+<P>如果沒有恆心，再努力也很有可能會白忘一場。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>白忘一場</WRONG>
+<CORRECT>白忙一場</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00109">
+<P>把握我們擁有的時光，真惜這寶貴的生命。</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>真惜</WRONG>
+<CORRECT>珍惜</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00110">
+<P>我們的方向總是常常被別人的想法所更替，很少人有自己的主見，而且堅侍到底。</P>
+<TEXT>
+<MISTAKE wrong_position=33>
+<WRONG>堅侍到底</WRONG>
+<CORRECT>堅持到底</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00111">
+<P>這麼決定真的對自己或對大家好嗎？畢盡好的方向不僅可以讓人生充實且有意義，還能讓自己與週遭的人皆受惠。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>畢盡</WRONG>
+<CORRECT>畢竟</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00112">
+<P>自己的心要朝哪個方向走，是自己來決定的，但是如果選錯了，那將會後侮一輩子。</P>
+<TEXT>
+<MISTAKE wrong_position=33>
+<WRONG>後侮</WRONG>
+<CORRECT>後悔</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00113">
+<P>這就是我想要報達父母的養育之恩及教育之恩的辦法。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>報達</WRONG>
+<CORRECT>報答</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00114">
+<P>很多人不知道該如何選擇方向，甚至在我們這個年紀很容易誤入歧途，交到壞朋友，導置人生的方向變壞了。</P>
+<TEXT>
+<MISTAKE wrong_position=39>
+<WRONG>導置</WRONG>
+<CORRECT>導致</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00115">
+<P>有一些人說當小職員，再慢慢升上去，這種說法我很讚同，因為如果沒有先從基礎做起，你要的人生方向就一定達不到。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>讚同</WRONG>
+<CORRECT>贊同</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00116">
+<P>書本上的知識能豐富我們的人生，儀態能使我們端裝，健康能使我們的生心理放鬆，快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>端裝</WRONG>
+<CORRECT>端莊</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00117">
+<P>在成功之前絕不要輕易放棄了原本的堅固毅志，要好好苦練，並努力學習。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>毅志</WRONG>
+<CORRECT>意志</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00118">
+<P>我要每天用功唸書，持之以恆，到老了才不會遼倒。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>遼倒</WRONG>
+<CORRECT>潦倒</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00119">
+<P>如果有兩個人，夢想、興趣、人生目標都相同；一個人選擇順著事情走，而另一個人想辨法讓自己更好。</P>
+<TEXT>
+<MISTAKE wrong_position=39>
+<WRONG>想辨法</WRONG>
+<CORRECT>想辦法</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00120">
+<P>這幾年，我只有皮膚變黑碳，跳得比較高外，竟然沒有長高。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>變黑碳</WRONG>
+<CORRECT>變黑炭</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00121">
+<P>因為我對很多東西都很有興趣，像是電腦、服裝、髮形，我都很感興趣。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>髮形</WRONG>
+<CORRECT>髮型</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00122">
+<P>因為你已經確定自己的目標，而且是你想要的，不會後悔。要有不屈不撓的精神，遇到挫折不可以輕易斿棄。</P>
+<TEXT>
+<MISTAKE wrong_position=46>
+<WRONG>斿棄</WRONG>
+<CORRECT>放棄</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00123">
+<P>我不喜歡坐在木椅上拚命讀書，那樣子好累！感覺自己的腦細胞都變遲頓了。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>遲頓</WRONG>
+<CORRECT>遲鈍</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00124">
+<P>不要為了投機取巧而抄近路，寧願遶一大圈也不要做偷雞摸狗的事。</P>
+<TEXT>
+<MISTAKE wrong_position=16>
+<WRONG>遶一大圈</WRONG>
+<CORRECT>繞一大圈</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00125">
+<P>先決定好目標，才會有鬥智，才會想努力。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>鬥智</WRONG>
+<CORRECT>鬥志</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00126">
+<P>走到這一步而放鬆，這樣只會造成反效果而已，因為，過度的放鬆，只會使你變懶，不管你走到了哪一個地步，都要勤憤不懈。</P>
+<TEXT>
+<MISTAKE wrong_position=53>
+<WRONG>勤憤</WRONG>
+<CORRECT>勤奮</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00127">
+<P>因為小時後還記得，我第一次來速食店時，全身有著莫名的緊張感，現在我已經長大了，我想要一個能帶給大人小孩們歡樂、讓他們消除煩惱的地方。</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>小時後</WRONG>
+<CORRECT>小時候</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00128">
+<P>現代社會競徵力那麼強，想輕鬆獲勝簡直難如登天，因此除了努力還是努力。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>競徵力</WRONG>
+<CORRECT>競爭力</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00129">
+<P>人可以決定要當失敗者也可以決定要當勝力者，只是差別在於毅力、恆心和努力和找到方向。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>勝力者</WRONG>
+<CORRECT>勝利者</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00130">
+<P>一個人非凡的毅志力幫未來的方向打好基礎，而毅力、恆心、努力就是人的裝備了，如果有了裝備前往的卻是錯的方向，那是白費力氣。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>毅志力</WRONG>
+<CORRECT>意志力</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00131">
+<P>我們要努力奠定知識的基礎，使你要朝著的方向有助於一譬之力，會較順利。</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>一譬之力</WRONG>
+<CORRECT>一臂之力</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00132">
+<P>像是最近發生的毒奶事件，三鹿公司的老闆在做決定時，也就不能只想到自己，也要為其他人想一想。這樣才能成為一個真正付責任的人。</P>
+<TEXT>
+<MISTAKE wrong_position=56>
+<WRONG>付責任</WRONG>
+<CORRECT>負責任</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00133">
+<P>如果貝多芬在他耳朵聽不到任何音樂時，就放棄了音樂這條路的話，也許這篇文章中就不會出現他的名子了。</P>
+<TEXT>
+<MISTAKE wrong_position=46>
+<WRONG>名子</WRONG>
+<CORRECT>名字</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00134">
+<P>每一個方向都有自己的優點，只是要看自己到底是想要什麼方向而己。</P>
+<TEXT>
+<MISTAKE wrong_position=30>
+<WRONG>而己</WRONG>
+<CORRECT>而已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00135">
+<P>我只要求自己當個正直、耿介的人，絕對不會走向不好的路，才不會造成後侮的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=34>
+<WRONG>後侮</WRONG>
+<CORRECT>後悔</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00136">
+<P>一次比賽中，他終於有機會上場比賽，終於有機會大展身手，比賽中他創下了高分的嘉績，一切就是因為他的努力不懈。</P>
+<TEXT>
+<MISTAKE wrong_position=38>
+<WRONG>嘉績</WRONG>
+<CORRECT>佳績</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00137">
+<P>你要當哪一種人呢？築夢踏實、追球夢想的人，還是要順其自然，當個無名小卒就心滿意足了。</P>
+<TEXT>
+<MISTAKE wrong_position=16>
+<WRONG>追球夢想</WRONG>
+<CORRECT>追求夢想</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00138">
+<P>令我持續努力下去的動機有二，其一是能夠使家人風光一世；使自己嬌傲一世。</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>嬌傲</WRONG>
+<CORRECT>驕傲</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00139">
+<P>數學老師說：「臨陣磨鎗，不亮也光。」那我努力、努力、再努力，豈不是考上第一志願？</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>臨陣磨鎗</WRONG>
+<CORRECT>臨陣磨槍</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00140">
+<P>我未來生活的方向就是成為一位傑出的剛琴家，剛起步時，我遇到許多挫折，但我不曾因此而自甘墮落，反而努力想方法解決。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>剛琴</WRONG>
+<CORRECT>鋼琴</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00141">
+<P>「方向」對一個初入國中的七年級生，太過於遙不可及、不知所惜。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>不知所惜</WRONG>
+<CORRECT>不知所措</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00142">
+<P>鄭豐喜先生的傳記，對當時盟懂的我所產生的深思，直到現在都還時時警惕我。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>盟懂</WRONG>
+<CORRECT>懵懂</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00143">
+<P>在家庭的耳濡慕染之下，我漸漸啟發了對文學的熱愛，嚮往著書中的世界。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>耳濡慕染</WRONG>
+<CORRECT>耳濡目染</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00144">
+<P>我會選擇向王永慶先生看齊，他的生活中雖充滿著金錢但卻僕實簡單，他偶而也會貢獻一己之力。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>僕實</WRONG>
+<CORRECT>樸實</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00145">
+<P>從那天起我便下定了決心，自己也要像母親一樣，當一位侮人不倦的好老師。</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>侮人不倦</WRONG>
+<CORRECT>誨人不倦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00146">
+<P>「樹葉的方向，由風來決定，人的方向，由自己來決定」，這到底是為了什麼呢？難到不是由上天決定的嗎？ </P>
+<TEXT>
+<MISTAKE wrong_position=38>
+<WRONG>難到不是</WRONG>
+<CORRECT>難道不是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00147">
+<P>有人常常會把自己的過錯推給像是上天、老天爺，做一些不負責認的事情，這樣好嗎？ </P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>責認</WRONG>
+<CORRECT>責任</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00148">
+<P>要是當出就好好讀書，選擇自己的方向，現在就不可能會有太多人失業。</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>當出</WRONG>
+<CORRECT>當初</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00149">
+<P>我並不希望自已或我的父母親們幫我選擇我的人生，要是沒辦法，就只有聽從，想辦法也能夠選擇自己的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00150">
+<P>我覺得十分重要！雖然我現在還沒有十分卻定的。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>卻定</WRONG>
+<CORRECT>確定</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00151">
+<P>想當企業大老闆！行！但要看你自己，努力，努力，在努力，若沒經過努力琢磨，必無法成功。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>在努力</WRONG>
+<CORRECT>再努力</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00152">
+<P>是實上，從小寫文章就很想寫這個題目了，只是…都一直沒有靈感。</P>
+<TEXT>
+<MISTAKE wrong_position=1>
+<WRONG>是實上</WRONG>
+<CORRECT>事實上</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00153">
+<P>你將會遭遇到許多挫折，要勇往直前，而不是徬惶在路邊哭泣、半途而廢。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>徬惶</WRONG>
+<CORRECT>徬徨</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00154">
+<P>任何事物、任何東西都有方向，而不同的方向則是看那位選則的人。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>選則</WRONG>
+<CORRECT>選擇</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00155">
+<P>當你做了一個選責，另一個就得不到。交到志同道合的好朋友，這就是所選的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>選責</WRONG>
+<CORRECT>選擇</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00156">
+<P>我最善長的就是電腦，而且對其它的都沒有興趣，只希望趕快長大而已。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>善長</WRONG>
+<CORRECT>擅長</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00157">
+<P>我覺得我人生的方向，應該是專心讀書和努力用功地去答成自己的目的。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>答成</WRONG>
+<CORRECT>達成</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00158">
+<P>有些人因為壓力太大而自殺，也有些人任為自己的人生方向只要活好、吃得飽就好了。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>任為</WRONG>
+<CORRECT>認為</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00159">
+<P>希望走哪個方向，取決於自已而大家希望走的方向有百分之八十以上以是好的，對吧！</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00160">
+<P>音樂家在眾人中顯現出自已的才華，但我們始終會忘記在他們的才華背後卻是辛苦的努力。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00161">
+<P>我希望能在絃樂團裡好好磨練，讓自已的琴藝更加深入，能代表學校參加比賽。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00162">
+<P>我目前的事情就是讀好書，考上理想的學校，找到好的工作，目前還只是這樣而己。</P>
+<TEXT>
+<MISTAKE wrong_position=36>
+<WRONG>而己</WRONG>
+<CORRECT>而已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00163">
+<P>我決定要努力用功、保握機會，直到有一天時機成熟，自然就可以水到渠成。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>保握</WRONG>
+<CORRECT>把握</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00164">
+<P>阿拉丁後來發現神燈裡有一位精靈，所以他用了他平常在市集裡所使用的騙術不用一個願望就讓自已出去了。</P>
+<TEXT>
+<MISTAKE wrong_position=44>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00165">
+<P>在不平凡的剉折中只有一分的運氣，兩分的習慣，三分的學以致用以及四分的冷靜中才可能化險為夷。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>剉折</WRONG>
+<CORRECT>挫折</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00166">
+<P>發明家愛迪生雖然實驗室大火，許多研究付之一炬，但之後他發表了他的第一部留聲機。「古之立大事者，不惟有起世之才，亦必有堅韌不拔之志。」愛迪生不但沒有覺得挫折，還永不放棄地發表自己的東西。</P>
+<TEXT>
+<MISTAKE wrong_position=51>
+<WRONG>起世之才</WRONG>
+<CORRECT>超世之才</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00167">
+<P>作者劉墉小時後，家裡陷入火海，雖然逃出來了，但眉毛、睫毛都燒光了，他默默接受，並不認為這是「挫折」，只能算「遭遇」。</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>小時後</WRONG>
+<CORRECT>小時候</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00168">
+<P>人生就像舫行的船，起起伏伏！沒人知道下一場的暴風雨什麼時候來，也不會知道什麼時候走，唯一能克服的就是自己的毅力與努力。</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>舫行</WRONG>
+<CORRECT>航行</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00169">
+<P>雖然說我沒有遭遇到這些大事，可我知道有些人會悲觀到得了憂鬱症，但有些人會積極樂觀，會把這些事變成另一種說法，只是考試考差了而己。</P>
+<TEXT>
+<MISTAKE wrong_position=63>
+<WRONG>而己</WRONG>
+<CORRECT>而已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00170">
+<P>逆境是人生不可必免的，但是要用什麼心態去接受，是掌握於自己手中，選擇難過，不會有好的結果，選擇勇敢面對，才是挽救之道。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>不可必免</WRONG>
+<CORRECT>不可避免</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00171">
+<P>在教室裡，我們經常走動、經過。但，是否真正品嚐過它的真面幕呢？</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>真面幕</WRONG>
+<CORRECT>真面目</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00172">
+<P>那角落，原本就己經很孤單了！僅僅只有四個方型筒和一筒奇臭無比的垃圾筒陪伴它。請大家不要在破壞了！</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>己經</WRONG>
+<CORRECT>已經</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00173">
+<P>桌子能通容我們在它身上做事，就算睡覺時口水滴下去它也不會兇我們，椅子能忍受我們坐在他身上，黑板、白板則是能忍受老師們在它的臉上圖鴉和寫字。</P>
+<TEXT>
+<MISTAKE wrong_position=64>
+<WRONG>圖鴉</WRONG>
+<CORRECT>塗鴉</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00174">
+<P>其實我們高興有這個教室，因為它離樓梯、理化教室和廁所都最近，只要走幾步路就到了，所以我還滿辛運的耶！</P>
+<TEXT>
+<MISTAKE wrong_position=46>
+<WRONG>辛運</WRONG>
+<CORRECT>幸運</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00175">
+<P>書櫃角落是我摯愛的教室一隅，縱使它總是遺世獨立般佇立在牆角，但它仍然散發著昔日動人的色彩，在我的人生旋途中，我將會使和蘇格拉底的對話，因為那是我和教室一隅在中學時期時一起編織成的人生樂章。</P>
+<TEXT>
+<MISTAKE wrong_position=51>
+<WRONG>旋途</WRONG>
+<CORRECT>旅途</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00176">
+<P>無聊時看著教室裡的課桌椅，就讓我的腦袋出現了許多問題，像為什麼課桌椅要這樣排，這嚴素的景象卻也讓我震撼。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>嚴素</WRONG>
+<CORRECT>嚴肅</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00177">
+<P>我當上了風紀，也成為大家所排擠的對象，但我還是盡力地去完成我的使命，換來的雖然是大家的不理不採，但也交到了一位知心的朋友。</P>
+<TEXT>
+<MISTAKE wrong_position=47>
+<WRONG>不理不採</WRONG>
+<CORRECT>不理不睬</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00178">
+<P>教室對學生，是最熟悉不過的環境，不管是老師們的諄諄教誨亦或同學們追逐奔跑，我們在教室中學習，也在教室中一點一滴地慢慢茁壯，更恣長了友情及師生之情。</P>
+<TEXT>
+<MISTAKE wrong_position=63>
+<WRONG>恣長</WRONG>
+<CORRECT>滋長</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00179">
+<P>我喜愛它的原因不是為了丟垃圾的方便，更不是為了在無聊的課程中方便打嗑睡，是因為窗外有著令人心曠神怡的美景。</P>
+<TEXT>
+<MISTAKE wrong_position=34>
+<WRONG>打嗑睡</WRONG>
+<CORRECT>打瞌睡</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00180">
+<P>在教室裡，每個人都有自己喜歡的角落，像是佈告欄、班級書櫃等佈置精美的地方，而我卻獨鐘放蒸飯箱的那一個角落。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>獨鐘</WRONG>
+<CORRECT>獨鍾</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00181">
+<P>那老舊的蒸飯箱，外層佈滿了銀白色的水漬，內層的鐵架也早己生鏽多時，卻還是盡責地每天替大家蒸飯，從來不曾停工，真讓我敬佩啊！</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>早己</WRONG>
+<CORRECT>早已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00182">
+<P>我最喜歡的還是我的坐位，下課可以和同學聊天，聊些有的沒有的東西，而中午時又可以邊吃中餐邊和同學聊天。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>坐位</WRONG>
+<CORRECT>座位</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00183">
+<P>從每天早上的第二個鐘聲響起，全班就會安安靜靜地回到自己的座位，而當老師的第一個腳步踏進教室時，如果被他發現哪裡不乾淨，他就會站到講桌旁邊，然候就開始訓話。</P>
+<TEXT>
+<MISTAKE wrong_position=71>
+<WRONG>然候</WRONG>
+<CORRECT>然後</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00184">
+<P>但事情並沒有那麼簡單，因為其他回收桶接二連三地跑出更多小強，牠們到處亂竄，亂了很久，小強死光了；正義使者累跨了；女生放心了。</P>
+<TEXT>
+<MISTAKE wrong_position=54>
+<WRONG>累跨</WRONG>
+<CORRECT>累垮</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00185">
+<P>它是靜悄悄的、孤伶伶的，喜怒哀樂四體合一，當它高興，它會以牛乳的清白回報你，當它生氣，它會以豔裝打拌走入垃圾桶。</P>
+<TEXT>
+<MISTAKE wrong_position=50>
+<WRONG>打拌</WRONG>
+<CORRECT>打扮</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00186">
+<P>看！這瑰麗的大地，聽！這蕭蕭的樹林聲，觸！這羽毛溫柔的誓言，聞！這神密的馨香，這就是地球給我們的藏寶圖，帶領我們尋找未知的偉大世界。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>神密</WRONG>
+<CORRECT>神秘</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00187">
+<P>教室，是我們學生必備的場所，從國小一、二年級的小小的課桌椅，隨著我們不段地成長，課桌椅也跟著我們不斷地成長，變成現在我們在用的國中八年級的大大課桌椅了！</P>
+<TEXT>
+<MISTAKE wrong_position=36>
+<WRONG>不段地</WRONG>
+<CORRECT>不斷地</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00188">
+<P>我喜歡在垃圾桶中尋寶，若是運氣好，可挖出不少八掛，你可從幾張撕破的小紙條看出小修好像要和班長提分手，你還可以在垃圾桶最裡邊找到小寧的零分考卷。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>八掛</WRONG>
+<CORRECT>八卦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00189">
+<P>教室裡有很多東西，無論是物品或是情感。把教室當作主角，班上的每一個人都只是小角色！教室是學生們經常進出的地方，絕對不可能乎略。</P>
+<TEXT>
+<MISTAKE wrong_position=61>
+<WRONG>乎略</WRONG>
+<CORRECT>忽略</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00190">
+<P>「教室不是嘻鬧的場所。」老師們經常說著這句話，但是學生們都當成耳邊風，意外總是在玩耍的過程中發生，此時此刻才想起老師們經常講的那句話。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>嘻鬧</WRONG>
+<CORRECT>嬉鬧</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00191">
+<P>在學生楷段裡能夠成年結為夫妻的，一百對裡可能只有一對，所以不要在那兒癡想。</P>
+<TEXT>
+<MISTAKE wrong_position=4>
+<WRONG>楷段</WRONG>
+<CORRECT>階段</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00192">
+<P>本班有個壞習慣，就是喜歡以「投籃」的方式去丟垃圾，而且技術又不好，垃圾滿地撿，往往看到就是垃圾筒爆滿的景像。</P>
+<TEXT>
+<MISTAKE wrong_position=53>
+<WRONG>景像</WRONG>
+<CORRECT>景象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00193">
+<P>我相信，如果全校師生都有圍護整個學校環境的話，整個學校就會乾淨無比，大家學習品質也會變好的。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>圍護</WRONG>
+<CORRECT>維護</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00194">
+<P>每次的生科課這些桌子都更豐富了，雖然這樣的作為不應該，不但浪廢立可白也破壞了公物，但是有些人就是喜歡在上面發洩個夠，就當作是種裝飾吧！</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>浪廢</WRONG>
+<CORRECT>浪費</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00195">
+<P>有的人喜歡在上面罵人，有的人則是喜歡在上面簽個名字留個紀念。偶爾也會跑出一些八掛消息，像是一支雨傘旁邊兩個人名，不然就是直接誰愛誰。</P>
+<TEXT>
+<MISTAKE wrong_position=40>
+<WRONG>八掛</WRONG>
+<CORRECT>八卦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00196">
+<P>每當望見在教室後那不起見的佈告欄時，便想起當時在製作時的一分一秒。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>不起見</WRONG>
+<CORRECT>不起眼</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00197">
+<P>那個佈告欄我和最要好的朋友一同完成的，當時還為了主題，意見不同大吵一架，但在大家溝通後，達成共勢，也決定我們一定要將教室佈置得很美麗。</P>
+<TEXT>
+<MISTAKE wrong_position=48>
+<WRONG>達成共勢</WRONG>
+<CORRECT>達成共識</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00198">
+<P>「噹噹！」教室鐘聲響起，一大堆的同學拿著球到操場玩，玩得不亦樂呼，突然，再一次的鐘聲提醒了他們該回教室上課了。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>不亦樂呼</WRONG>
+<CORRECT>不亦樂乎</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00199">
+<P>上課時，它的身體總是充滿了文字和數字，下課時，總是有著同學的塗鴉，它有兩個很要好的朋友，「粉筆 」和「板擦」，它們之間，只要失去某個人作為煤介，就無法正常地運作。 </P>
+<TEXT>
+<MISTAKE wrong_position=69>
+<WRONG>煤介</WRONG>
+<CORRECT>媒介</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00200">
+<P>這一次，我又望著它，在心裡默默想著，為何你要擺蕩呢？為何你能如此準確地指著？我想，沒有一定的答案吧！</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>擺蕩</WRONG>
+<CORRECT>擺盪</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00201">
+<P>放學後，許多人馬上衝出教室，準備吃晚餐或著去補習。</P>
+<TEXT>
+<MISTAKE wrong_position=21>
+<WRONG>或著</WRONG>
+<CORRECT>或者</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00202">
+<P>教室的黑板經過了一整個寒冷的早上，經過了一整個炎熱的下午，如經原本早上剛洗淨的臉頓時變得灰頭土臉，嘴巴上多了一排白字，鼻子上多了一個藍色的留言。</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>如經</WRONG>
+<CORRECT>如今</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00203">
+<P>教室裡永遠只有黑板是站在教室的最前線，帶領我們，也默默地為我們付出一切，附出了她一生唯一的青春，甚至付出了她的一生。</P>
+<TEXT>
+<MISTAKE wrong_position=37>
+<WRONG>附出</WRONG>
+<CORRECT>付出</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00204">
+<P>在教室裡，我坐在講桌的正前方，雖然離老師那麼地近，但我的心思總是跟不上老師從口中吐出的聲音，我喜歡偷偷地望著它，望著思文的時鐘。</P>
+<TEXT>
+<MISTAKE wrong_position=59>
+<WRONG>思文的</WRONG>
+<CORRECT>斯文的</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00205">
+<P>看黑字白底的課本，我試著將它們塞進我溶量一公克的大腦裡，只是它們從左右耳蹦蹦跳跳地跑出來。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>溶量</WRONG>
+<CORRECT>容量</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00206">
+<P>每當我偷偷望著它時，總是感到微微地悲傷，曾經的快樂、曾經的傷痛、曾經說過的一字一句，被它勞記，現在的舉動，將在一瞬間變成過去。</P>
+<TEXT>
+<MISTAKE wrong_position=45>
+<WRONG>勞記</WRONG>
+<CORRECT>牢記</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00207">
+<P>上面還掛著一個時鐘，同學上課總是盯著他看，期昐著下課。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>期昐</WRONG>
+<CORRECT>期盼</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00208">
+<P>我深深地感受到，黑板像是一位默默為你付出的人，你以為這是正常的，當你生氣時，總是怪他默不關心，其實他對你的關心是用言語也無法形容。</P>
+<TEXT>
+<MISTAKE wrong_position=43>
+<WRONG>默不關心</WRONG>
+<CORRECT>漠不關心</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00209">
+<P>在教室的回收桶和垃圾桶天天都在難過和叫痛，因為班上的同學喜歡用投籃的方式丟垃圾，有時是鋁鉑包，有時是衛生紙。</P>
+<TEXT>
+<MISTAKE wrong_position=45>
+<WRONG>鋁鉑</WRONG>
+<CORRECT>鋁箔</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00210">
+<P>我的心情頓時感到雀躍不己，因為，再過三秒，我就要聽到鐘聲啦！</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>雀躍不己</WRONG>
+<CORRECT>雀躍不已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00211">
+<P>在八年級時，為了在教室佈置競賽中獲取嘉績，我們班除了負則的人之外，還有許多熱心的同學們一起合力完成。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>負則</WRONG>
+<CORRECT>負責</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00212">
+<P>只要是班級競賽，我們都堅持著「全班其心，其力斷金」的精神，雖然未必一定有成果，但中間、過程的努力卻是大家共同的回憶和最美好的禮物。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>全班其心</WRONG>
+<CORRECT>全班齊心</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00213">
+<P>教室，是每個人共同的回憶，朗朗的讀書聲，怎麼掃還是不乾淨的地板，老師在台上寫了半天依舊不瞭解其內容的黑板…各種美的感觸都在這個教落呢！</P>
+<TEXT>
+<MISTAKE wrong_position=64>
+<WRONG>教落</WRONG>
+<CORRECT>角落</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00214">
+<P>在這教室裡，不同的角落都擁有不同的回憶，而這只是一小部份而己，希望這些回憶都能深深地印在我的心裡。</P>
+<TEXT>
+<MISTAKE wrong_position=30>
+<WRONG>而己</WRONG>
+<CORRECT>而已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00215">
+<P>你有想過你的方向嗎？我從未想過我的方向，都靠著自己一步步的夢想與一些緣份的巧合，那我有可能就這麼順力地考上好高中好大學？</P>
+<TEXT>
+<MISTAKE wrong_position=50>
+<WRONG>順力</WRONG>
+<CORRECT>順利</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00216">
+<P>我的人生方向有許多，但最後方向指向的都是活命，但方向裡的內容多辦都需要誠實及智慧。</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>多辦</WRONG>
+<CORRECT>多半</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00217">
+<P>如果我們選擇到了錯誤的方向，你有可能就會後悔一輩子，但是你把握到了正確的方向，有可能造就出自已不悔的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=47>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00218">
+<P>我們應該要朝著什麼方向走呢？就要由你自己來做決定，而像我們是在求學的接段，將來還要去考基測、學測等等。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>接段</WRONG>
+<CORRECT>階段</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00219">
+<P>方向就像我們的人生目標，我們一定要想辨法去達成，才不會白費多年來的辛苦以及苦練，讓它們化為烏有。</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>想辨法</WRONG>
+<CORRECT>想辦法</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00220">
+<P>身為國中生的我們，往往還沒對未來定一個目標，但我們要好好思考，走對自己的人生方向，別造成未來對自己的選擇感到後悔，那時可能就來不及從新來過了。</P>
+<TEXT>
+<MISTAKE wrong_position=66>
+<WRONG>從新來過</WRONG>
+<CORRECT>重新來過</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00221">
+<P>仔細思考，不管任何想走的方向，都不是那麼順利，看似成為棒球選手簡單，能不能夠承受面前的因難，背後的苦練？是否能表現得好中再好？完美無缺呢？</P>
+<TEXT>
+<MISTAKE wrong_position=44>
+<WRONG>因難</WRONG>
+<CORRECT>困難</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00222">
+<P>在這路上，我可能會灰心喪氣、半途而癈。我相信在這些因素中，我仍可以力爭上游，因為我有一個方向，一個對我未來的鋪陳很重要的目標。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>半途而癈</WRONG>
+<CORRECT>半途而廢</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00223">
+<P>我若是做到選擇方向、把握方向、去造就自己不悔的人生，不管有沒有成功，我都不會羞愧於自己，必竟我已盡力。</P>
+<TEXT>
+<MISTAKE wrong_position=45>
+<WRONG>必竟</WRONG>
+<CORRECT>畢竟</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00224">
+<P>但做到「半途而癈」、「誤入歧途」，我會後悔不已，悔不當初時卻已經來不及了。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>半途而癈</WRONG>
+<CORRECT>半途而廢</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00225">
+<P>每個人都有自己的興趣和嗜號。有人是從小就開始培養當個音樂家，這就是他的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>嗜號</WRONG>
+<CORRECT>嗜好</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00226">
+<P>相信每個人都知道自己的夢想要自己掌控並將它實現。說到人生方向，我的人生後會選擇自己掌控，因為我不喜歡被別人約訴。</P>
+<TEXT>
+<MISTAKE wrong_position=55>
+<WRONG>約訴</WRONG>
+<CORRECT>約束</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00227">
+<P>就如某些長輩所說的：「硯是須經琢磨，才能成器。」自己去造就一個使自己永不回頭的人生，讓自己也有出人投地的一天。</P>
+<TEXT>
+<MISTAKE wrong_position=50>
+<WRONG>出人投地</WRONG>
+<CORRECT>出人頭地</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00228">
+<P>在朝這個方向邁進時，可能會有遇到瓶頸的時候，所以一但選擇了這個好的方向時，就一定要堅持到底，不可半途而廢，不然一切可能都是浪費時間。</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>一但</WRONG>
+<CORRECT>一旦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00229">
+<P>每個人的人生中都會碰到二條路，有人筆直往前走，有人卻轉彎，有些人想一步登天所以轉了彎，在社會上有許多人轉了彎而犯了罪，往往他們都是做完了才後侮。</P>
+<TEXT>
+<MISTAKE wrong_position=71>
+<WRONG>後侮</WRONG>
+<CORRECT>後悔</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00230">
+<P>「方向」在決定你以後的人生，你要去掌控他，可以直走、轉彎，但別想一步登天，也別想回頭，人生只有一次，你犯了罪那是一被子都會跟在你身邊的污點。</P>
+<TEXT>
+<MISTAKE wrong_position=58>
+<WRONG>一被子</WRONG>
+<CORRECT>一輩子</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00231">
+<P>我父母的個性不同，一個是民主，一個是權威，所以我很苦惱，她同意了，但他卻不同意；一直不斷對我洗腦，我不堅定的心，就這樣被他所動遙了。</P>
+<TEXT>
+<MISTAKE wrong_position=64>
+<WRONG>動遙</WRONG>
+<CORRECT>動搖</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00232">
+<P>成語有一句話叫：「貪得無厭」，越想一步登天的人就越不可能成功，想要成功一定要循規道矩。</P>
+<TEXT>
+<MISTAKE wrong_position=41>
+<WRONG>循規道矩</WRONG>
+<CORRECT>循規蹈矩</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00233">
+<P>方向確實很重要，一旦迷失了，可能永遠找不回來，可是不猶預向前走，才是最好的方式了。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>猶預</WRONG>
+<CORRECT>猶豫</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00234">
+<P>目標和方向，是給自已來選擇的，因為有自己的人生也是自己過，所以要為未來而努力。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00235">
+<P>有時有兩條路，一條是直直的，一條有下坡，可是下坡的路常常會有車子出來有點危險，所以我就會走上面，可是上面的路直直的好無聊，都沒有刺激感，最後就覺定每次只要走這兩條路時，一次走下面，一次走上面。</P>
+<TEXT>
+<MISTAKE wrong_position=72>
+<WRONG>覺定</WRONG>
+<CORRECT>決定</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00236">
+<P>最後我還是覺定我想當什麼職業了，我想當跟爸爸一樣的職業。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>覺定</WRONG>
+<CORRECT>決定</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00237">
+<P>當進定了方向之後，我們就該永往直前，不要害怕。如果失敗或跌倒了，只要再站起來就好了。而路途中，一定會遇到許多考驗。而那些考驗，就是為了要讓自己突破。</P>
+<TEXT>
+<MISTAKE wrong_position=14>
+<WRONG>永往直前</WRONG>
+<CORRECT>勇往直前</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00238">
+<P>每個人都該要有一個自己想前進的「方向」，也該是正面的，而不是負面的，大家都要為社會進一份心力。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>進一份心</WRONG>
+<CORRECT>盡一份心</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00239">
+<P>每個人在生命的旅途中，往往會碰到錯折與不容易的事，但我們該如何克服它呢？有些人因為幾次的失敗，放棄了自己光明美好的前途。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>錯折</WRONG>
+<CORRECT>挫折</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00240">
+<P>當有適合自己的路可以走時，就因該把握它，在路途上，可能會受傷或跌倒，不過還是要站起來，因為這條路，是可以讓你自己去造就自己不悔的人生希望。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>因該</WRONG>
+<CORRECT>應該</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00241">
+<P>媽媽曾經對我說，她國中二年級時，因為家境貧困，所以開始賣菜以為持家計，每天一邊賣菜、一邊讀書。十年後，媽媽專科畢業了，離開了市場。開始了自己展新的人生。</P>
+<TEXT>
+<MISTAKE wrong_position=71>
+<WRONG>展新</WRONG>
+<CORRECT>嶄新</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00242">
+<P>人的一生，該怎麼走，是可以自己決定的。我現在，也正努力地改變我的人生。而我也期許著，我將來不會走上歧徒，永遠做個好人。</P>
+<TEXT>
+<MISTAKE wrong_position=51>
+<WRONG>歧徒</WRONG>
+<CORRECT>歧途</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00243">
+<P>以前我的好朋友常用功地讀書，我問他：「為什麼你要如此地用功呢？」他回答我：「如果我不用功，那以後我將敢不上自己所定的目標。」。</P>
+<TEXT>
+<MISTAKE wrong_position=51>
+<WRONG>敢不上</WRONG>
+<CORRECT>趕不上</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00244">
+<P>這方向是不能半徒而廢的，只要你一路走下去，不要管是甘是苦，去造就自己不能重來的人生，方向不是別人能幫你決定的，而是自己決定的，這點請切記。</P>
+<TEXT>
+<MISTAKE wrong_position=8>
+<WRONG>半徒而廢</WRONG>
+<CORRECT>半途而廢</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00245">
+<P>雖然我尚未選好方向，但我希望成為棒球選手，就算沒成功，也要再接再勵，就一定要成功。</P>
+<TEXT>
+<MISTAKE wrong_position=33>
+<WRONG>再接再勵</WRONG>
+<CORRECT>再接再厲</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00246">
+<P>我們不要讓別人決定自己，也不要輕易決定別人，而要清楚自己的心，擁有自己的心，導引自已的方向，航向自己的未來。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00247">
+<P>有一些人就一直不去為自己未來的方向努力，等到了成人，因為之前不努力，所以就要看命運的安排和自已的努力，這就是由命運來決定未來。</P>
+<TEXT>
+<MISTAKE wrong_position=47>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00248">
+<P>我的方向我可以自己決定，不過我得先把自己的與趣找出來，才可以把自己的方向找出來。</P>
+<TEXT>
+<MISTAKE wrong_position=22>
+<WRONG>與趣</WRONG>
+<CORRECT>興趣</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00249">
+<P>當我們培養出自己的才能後，別人知到了你很厲害的能力之後，別人自然就會用你了。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>知到</WRONG>
+<CORRECT>知道</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00250">
+<P>媽媽曾經對我說：「妹妹，你可以想好以後你要做什麼，朝著那個目標前進才能有所進步。」我認為說得很對，經過一翻思考之後，我知道了，我的人生方向是數學。</P>
+<TEXT>
+<MISTAKE wrong_position=53>
+<WRONG>一翻思考</WRONG>
+<CORRECT>一番思考</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00251">
+<P>人生的旅途中，有著許多困難，現在的我已找到我人生的方向了，朝著它去怒力，相信在我遇到困難時，我可以將自己的努力化為助力，把所有的困難都順利解開。</P>
+<TEXT>
+<MISTAKE wrong_position=34>
+<WRONG>怒力</WRONG>
+<CORRECT>努力</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00252">
+<P>方向的一次撰擇很重要，錯過就錯失了這無法再重來的機會。</P>
+<TEXT>
+<MISTAKE wrong_position=6>
+<WRONG>撰擇</WRONG>
+<CORRECT>選擇</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00253">
+<P>如何選擇方向也是很重要的，我們有時候可能會被週遭的環境影嚮，有一句話是「近朱者赤，近墨者黑」。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>影嚮</WRONG>
+<CORRECT>影響</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00254">
+<P>「方向」是一個抽像的東西，有人的方向是「心」的方向，有人的方向是自己人生的道路該往哪去，該往哪走，現在我要述說我自己的方向是要往哪走。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>抽像</WRONG>
+<CORRECT>抽象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00255">
+<P>我的方向，在我小時候我就幫我自己決定好了，那就是不管怎樣都要跟著自己的感覺走，這樣才可以走到哪都過得很自在，不用理會別人給你不好的健言。</P>
+<TEXT>
+<MISTAKE wrong_position=66>
+<WRONG>健言</WRONG>
+<CORRECT>建言</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00256">
+<P>我想要學習我的爸爸，跟他一樣從事製做馬達、驅動器，把它們發揚到全世界，讓世界知道自己的產品技術是一流的。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>製做</WRONG>
+<CORRECT>製作</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00257">
+<P>我很感謝我的爸爸，他讓我找到了目標，我相信以後一定大大有幫助，必竟他年紀比我大，瞭解在成長的路上，哪些路比較好走，哪些路比較不好走啊！</P>
+<TEXT>
+<MISTAKE wrong_position=32>
+<WRONG>必竟</WRONG>
+<CORRECT>畢竟</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00258">
+<P>而我沒有特定的專常、興趣，所以我人生的方向就是--完成家人對我的期待，唯有「它」，才能使我徘徊不定的心，有個確實的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>專常</WRONG>
+<CORRECT>專長</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00259">
+<P>是自己想要的，也要有心去達成，如果舉旗不定，那麼在冷靜三思吧！</P>
+<TEXT>
+<MISTAKE wrong_position=19>
+<WRONG>舉旗不定</WRONG>
+<CORRECT>舉棋不定</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00260">
+<P>從多方探尋開始，我應該多去增廣見聞，多閱讀書集，甚至是多去旅行，讓自己所喜愛的化為行動，開展第一個起點。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>書集</WRONG>
+<CORRECT>書籍</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00261">
+<P>在人生中，有數以萬計的轉淚點等著我們，一個轉捩點，有許多方向可讓人們選擇，方向有好對夜壞，重點在於自己的抉擇。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>轉淚點</WRONG>
+<CORRECT>轉捩點</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00262">
+<P>現在父母的想法很毛盾，望子成龍，望女成鳳，希望子女選對方向，有個幸福美滿的未來，卻又怕鎖住了自由，失去了快樂的童年。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>毛盾</WRONG>
+<CORRECT>矛盾</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00263">
+<P>自從上了國中，生活形態就不一樣了，每天都是和自己唸書、應付考試，考不好也是自己付責了。</P>
+<TEXT>
+<MISTAKE wrong_position=40>
+<WRONG>付責</WRONG>
+<CORRECT>負責</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00264">
+<P>在學習的旅途中，努力不懈，將來要好好孝進父母，以表達養育之恩。</P>
+<TEXT>
+<MISTAKE wrong_position=20>
+<WRONG>孝進</WRONG>
+<CORRECT>孝敬</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00265">
+<P>如果我能完全按照自己所訂的「方向」中的話，將來的我不止會過得很快樂，我還能影嚮到我身邊的人，讓他們的未來也和我一樣，如此地理想。</P>
+<TEXT>
+<MISTAKE wrong_position=39>
+<WRONG>影嚮</WRONG>
+<CORRECT>影響</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00266">
+<P>有的人，他的人生方向很簡單，可能只是希望每天都很平穩，不希望出意外。而有的人，可能希望每天都有各式各樣的意外，可能是中了彩卷，或是考試考得好…等。</P>
+<TEXT>
+<MISTAKE wrong_position=62>
+<WRONG>彩卷</WRONG>
+<CORRECT>彩券</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00267">
+<P>樹葉的方向，由風來決定；人的方向，由自已來決定。方向是什麼？是北方還是東方？不，不對！而是人生的方向。</P>
+<TEXT>
+<MISTAKE wrong_position=20>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00268">
+<P>心要朝正面的方向走，做一個好人成為社會上有用的人材，把握每一分每一秒去做些有意義的事！</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>人材</WRONG>
+<CORRECT>人才</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00269">
+<P>人生就像車上的方向盤，而你就是開車的人，你的人生由自已來決定。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00270">
+<P>人生的意義及價值不在於長久，而在於其中你努力不懈、孜孜不卷所得來的結果。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>孜孜不卷</WRONG>
+<CORRECT>孜孜不倦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00271">
+<P>如果只是一再用取別人的經驗的話，那我可能只是一個固步自封的人而已，唯有困難重重的磨練，才能使我開創出獨一無二的偉大成就。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>固步自封</WRONG>
+<CORRECT>故步自封</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00272">
+<P>在人生的道路上，我要劈荊展棘，走向美好的求學之路，邁開我創業的第一步。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>劈荊展棘</WRONG>
+<CORRECT>劈荊斬棘</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00273">
+<P>「靜海造就不出好水手。」，所以只要捉準自己人生的方向，並且以努力不懈的態度去走，那就會嘗到成功的姿味。</P>
+<TEXT>
+<MISTAKE wrong_position=49>
+<WRONG>姿味</WRONG>
+<CORRECT>滋味</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00274">
+<P>我已賠養「好學」的習慣，我要多發問自己比較有困難的問題，將阻力化為助力，回家時也要更加複習、預習以及練習，達到我的目標--好學。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>賠養</WRONG>
+<CORRECT>培養</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00275">
+<P>其實人生中所餵的「方向」，也就是自己想發展的地方，有一點類似目標，但只要方向正確，你的人生就完美了，重要的是，把握機會，一切都OK了！</P>
+<TEXT>
+<MISTAKE wrong_position=7>
+<WRONG>所餵的</WRONG>
+<CORRECT>所謂的</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00276">
+<P>薄公英的方向，就是要飄過蒼穹，尋找它生長的土地。我希望我的方向，就是朝著我最喜歡的事物--藝術去邁進。</P>
+<TEXT>
+<MISTAKE wrong_position=1>
+<WRONG>薄公英</WRONG>
+<CORRECT>蒲公英</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00277">
+<P>「藝術」這條路是很開放的，就算無法在藝術界大放光彩，我也不會輕易放棄自己的興趣，必竟有錢有權不一定能為自己帶來開心的泉水。</P>
+<TEXT>
+<MISTAKE wrong_position=41>
+<WRONG>必竟</WRONG>
+<CORRECT>畢竟</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00278">
+<P>方向，是一個人生命中最難抉擇的事，因為你一但選擇一個方向了，就不能夠再回頭了。</P>
+<TEXT>
+<MISTAKE wrong_position=22>
+<WRONG>一但</WRONG>
+<CORRECT>一旦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00279">
+<P>心是很重要的，如果你一旦選了某一個方向去開闊你的未來，那你的心就不能在起點徘徊，而是要跟著你去，不然就會是每一件是都做不好。</P>
+<TEXT>
+<MISTAKE wrong_position=57>
+<WRONG>每一件是</WRONG>
+<CORRECT>每一件事</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00280">
+<P>以前小時候我很喜歡跑步，我想如果我在努力練習的話，說不定長大以後就可以出國比賽了，可是好景不常，有一次在跑步時雞肉拉傷，所以我從此以後就跑不快了。</P>
+<TEXT>
+<MISTAKE wrong_position=56>
+<WRONG>雞肉拉傷</WRONG>
+<CORRECT>肌肉拉傷</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00281">
+<P>老師跟我說我才學半年的速描和四個禮拜的水彩就可以平均七十幾，代表我很有天分，只要再努力，一定可以向藝術這方面逼近。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>速描</WRONG>
+<CORRECT>素描</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00282">
+<P>人生無法從來，踏出第一步也無法改變，選擇正確的方向，必定不悔，然而選擇錯誤方向必定後悔莫及。</P>
+<TEXT>
+<MISTAKE wrong_position=5>
+<WRONG>無法從來</WRONG>
+<CORRECT>無法重來</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00283">
+<P>現在正是我們邁向未來的漫長旅行，每位同學是一顆正在發芽的種子，朝著自己的方向，你是否能辯識自己的方向？還是個成為新聞焦點的人物？</P>
+<TEXT>
+<MISTAKE wrong_position=44>
+<WRONG>辯識</WRONG>
+<CORRECT>辨識</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00284">
+<P>十二歲的寒假，我幾乎都在七彈場渡過的；那時媽媽為我報了一個數學營，卻陰錯陽差地報到了漆彈營，那是我一生中最美的寒假了。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>七彈場</WRONG>
+<CORRECT>漆彈場</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00285">
+<P>開學後，因為不能去漆彈場玩，所以，我就跑去模型店買了一把電動的BB槍，在晚上時，跟朋友在公園「撕殺」，後來，因為一身是傷，而被母親禁止了。</P>
+<TEXT>
+<MISTAKE wrong_position=48>
+<WRONG>撕殺</WRONG>
+<CORRECT>廝殺</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00286">
+<P>方向是什麼？方向就是自已所選擇的事，該或不該、想或不想、要或不要……全部都是自己的「方向」決定的。</P>
+<TEXT>
+<MISTAKE wrong_position=12>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00287">
+<P>考試前，你會想說：「啊！真希望考試能考好」，或是希望自已能超越某位同學，但是愈想得到的東西，往往會離我們愈來愈遠。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00288">
+<P>在讀書時，不可能不受到外界的干擾。像是正在看著不懂的數學題目時，想到現在正在播放自已喜歡看的節目，就會先去看一小段節目，在回來「用功」吧！</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00289">
+<P>拿這件事情當例子，就可知道方向的好壞，要我們絕不誤入其途，只要走對了路、選對了「方向」。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>誤入其途</WRONG>
+<CORRECT>誤入歧途</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00290">
+<P>每個人的志向、方向都不同，但自己的方向只有自己能決定。一但決定了，就必須努力、盡力地學習，才能發揮出無窮的潛力。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>一但</WRONG>
+<CORRECT>一旦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00291">
+<P>在朝著自己的方向前進的時候，一定要持之以恆，決不可以半途而廢，否則就功虧一簣了，另外還要努力、奮發向上，如此就能成功。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>決不</WRONG>
+<CORRECT>絕不</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00292">
+<P>樹葉沒有生命，所以它指能任憑別人，但是人是有生命、有感覺的，所以只能依靠自己。人都要好好把握，不然時機可是不會回頭的。</P>
+<TEXT>
+<MISTAKE wrong_position=11>
+<WRONG>指能</WRONG>
+<CORRECT>只能</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00293">
+<P>我們不能只看一個人的成績，就算成績第一名，但品行不好，終就還是會誤入歧途的，都是錯誤的第一步，一定要把握當下，認真學習。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>終就</WRONG>
+<CORRECT>終究</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00294">
+<P>很感謝爸、媽教我們做人做事的道理，希望我長大後，可以選擇、把握自已的人生、方向，不會讓你們白費心血，不會讓自己迷失了方向。</P>
+<TEXT>
+<MISTAKE wrong_position=33>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00295">
+<P>為了要替以後的人生方向奠下良好的基楚，我現在必須先把眼前的考試、功課等學生的本份做好，否則什麼也談不上。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>基楚</WRONG>
+<CORRECT>基礎</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00296">
+<P>每個人的志向都不同，有的人期許自己是博學多聞的醫生，有的人希望自己能演奏動人心絃的樂曲…。靜坐在書桌前，不妨想想：你的未來要朝什麼方向走？</P>
+<TEXT>
+<MISTAKE wrong_position=40>
+<WRONG>動人心絃</WRONG>
+<CORRECT>動人心弦</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00297">
+<P>我想，因為我對於音樂方面頗有興趣，而且從小學琴的我，未來我期勉自己可以做個拉奏出美妙動人的提琴家，透過那柔和詼諧的絃律，傳達到世界的各個角落。</P>
+<TEXT>
+<MISTAKE wrong_position=58>
+<WRONG>絃律</WRONG>
+<CORRECT>弦律</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00298">
+<P>我認為，人生最終的目的，並不在於成功，而是再去造就不凡人生的過程，因為在那裡面，有你辛苦創造機會、成功的結晶，是金錢再多再多也無可取待的。</P>
+<TEXT>
+<MISTAKE wrong_position=67>
+<WRONG>無可取待</WRONG>
+<CORRECT>無可取代</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00299">
+<P>我是個喜愛藝術的人，我希望成為一個藝術家，我覺得要造就「不悔的人生」並不是件難事，固難的是「善變」的人心往往讓自己後悔當年的決定。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>固難</WRONG>
+<CORRECT>困難</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00300">
+<P>許多大人到現在都還在感嘆自己的成就不夠高，但或許他們也乎略了成就背後最重要且最艱難的部份…磨練。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>乎略</WRONG>
+<CORRECT>忽略</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00301">
+<P>或許，我們可以擁有的是「成就」，但是也絕對不能夠乎略自己最初的夢想，才能造就出「不悔的人生」。</P>
+<TEXT>
+<MISTAKE wrong_position=25>
+<WRONG>乎略</WRONG>
+<CORRECT>忽略</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00302">
+<P>現在的我能做的也只有讓自己在恆河沙數的磨練中出類拔脆，讀好書，無後顧之憂的我只有這件重要責任必須完成，加油！</P>
+<TEXT>
+<MISTAKE wrong_position=26>
+<WRONG>出類拔脆</WRONG>
+<CORRECT>出類拔萃</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00303">
+<P>「樹葉的方向，由風來決定；人的方向，由自己決定」這句話，以經在我心中留下了深刻的印記。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>以經</WRONG>
+<CORRECT>已經</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00304">
+<P>我，從小就對國樂社團有興趣，如今己是xx國樂團的一員，儘管同學們恥笑我，因為我愛國樂。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>己是</WRONG>
+<CORRECT>已是</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00305">
+<P>小樹葉啊！你想去哪兒呢？小樹葉由風爺爺來幫他決定要去哪，是去人山人海的夜士，還是去冷清的小巷。</P>
+<TEXT>
+<MISTAKE wrong_position=37>
+<WRONG>夜士</WRONG>
+<CORRECT>夜市</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00306">
+<P>我認為我必須先從分配及利用自已的時間開始，分配如何更有效率地利用我那有限的時間，就是第一難關，我決定用計畫表來分配。</P>
+<TEXT>
+<MISTAKE wrong_position=15>
+<WRONG>自已</WRONG>
+<CORRECT>自己</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00307">
+<P>自從我國小畢業升上國中以後，我每天上課都會覺得有一種壓力，想畢這就是國小從來沒有過的課業壓力吧！</P>
+<TEXT>
+<MISTAKE wrong_position=31>
+<WRONG>想畢</WRONG>
+<CORRECT>想必</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00308">
+<P>他的錯號叫小傑，他做什麼事我都一定會挺他，同樣地我做什麼事他也會挺我到底，他絕對不會出賣朋友的。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>錯號</WRONG>
+<CORRECT>綽號</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00309">
+<P>正當我要回家的路上，發現原本在春天開的滿滿的花，竟然一一逍失了，一到家原本在夏天時急忙地開冷氣，但是現在卻不會了，說不定秋天是在提醒我們要節能減碳吧！</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>逍失</WRONG>
+<CORRECT>消失</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00310">
+<P>秋天處處充滿了思念的心，每當看到葉子掉落時，我便想起了兩年前的事情，那件事情深深地絡印在我的心中，每當想起時，我就會不禁地哭了出來。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>絡印</WRONG>
+<CORRECT>烙印</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00311">
+<P>望著遠方紅色的落葉輕輕飄落，我的心也隨它慢慢地掉落，鳥在樹上歌唱，已是久遠以前，而現在望著地上的螞蟻們辛勤地搬運食物，準備迎接那及將到來的冬天，讓我的思念，又回到了很久以前。</P>
+<TEXT>
+<MISTAKE wrong_position=65>
+<WRONG>及將</WRONG>
+<CORRECT>即將</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00312">
+<P>夏天漸漸離開了大地，這也代表著秋天已離我們不遠了；每一個視物都在為秋天的到來做準備，街上的老樹正為自己的打扮苦惱，於是把衣服脫掉，等待春天的來臨。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>視物</WRONG>
+<CORRECT>事物</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00313">
+<P>就是秋天一到，我們就會做些秋天該做的事，留下美好的印像。</P>
+<TEXT>
+<MISTAKE wrong_position=27>
+<WRONG>印像</WRONG>
+<CORRECT>印象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00314">
+<P>秋天到來時，會出現很多現像，例：原本綠色的葉子會突然變紅，且掉了下來，空氣會變得很涼爽，讓人想睡覺呢！</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>現像</WRONG>
+<CORRECT>現象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00315">
+<P>畢業典禮當天，我並沒有很憂傷，但署假時，我就後悔了，為什麼沒有好好珍惜和他在一起的時光呢？下一次見面不知道又什麼時候了。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>署假</WRONG>
+<CORRECT>暑假</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00316">
+<P>這些回憶只能讓我思念，這些以前做過的事也只能思念，以前認是的同學也只能思念，讓這些做過的事都變成回憶，讓我慢慢地思念做過的事吧！</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>認是</WRONG>
+<CORRECT>認識</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00317">
+<P>想到國小的朋友們，就想起大家在下課一起打打鬧鬧，一起盪秋遷的情景，那時的我們還是一群調皮又貪玩的孩子。</P>
+<TEXT>
+<MISTAKE wrong_position=28>
+<WRONG>秋遷</WRONG>
+<CORRECT>鞦韆</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00318">
+<P>秋風輕輕吹著，我也像旅人一樣，但，我想念的是那一些堂兄弟姊妹和外公外婆，我好久沒見到他們了，每年秋天，我不管在哪，心中總是惦記著他們，這大概就是秋天的不可思意吧！</P>
+<TEXT>
+<MISTAKE wrong_position=79>
+<WRONG>不可思意</WRONG>
+<CORRECT>不可思議</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00319">
+<P>還記得那時我們都是矇懂無知的小孩，每天無憂無慮地玩耍著，還真以為能這樣直到永遠。</P>
+<TEXT>
+<MISTAKE wrong_position=10>
+<WRONG>矇懂</WRONG>
+<CORRECT>懵懂</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00320">
+<P>今天早上天空擺著一張慘澹的臉望著大地，以往熱情如火的太陽，被寒風嚇得躲在烏雲的身後不敢出來，寒風呼呼地吹，好像在對我示威，心情不好的天空加上憺小的太陽。</P>
+<TEXT>
+<MISTAKE wrong_position=71>
+<WRONG>憺小</WRONG>
+<CORRECT>膽小</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00321">
+<P>秋天的到來，令人聯想到的就是樹葉變色，並且掉落滿地。使得掃落葉的人怎麼掃都掃不完，有的人或許也會心想：秋天就竟要到何時才會結束呢？</P>
+<TEXT>
+<MISTAKE wrong_position=54>
+<WRONG>就竟</WRONG>
+<CORRECT>究竟</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00322">
+<P>秋天，雖然有許多的變化，還有令人煩厭的事，但是在古時候時，是和親人、朋友相互道別、分開的一個離情依依的秀節。</P>
+<TEXT>
+<MISTAKE wrong_position=52>
+<WRONG>秀節</WRONG>
+<CORRECT>季節</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00323">
+<P>秋天雖然令人感到懷念、感傷，但是時間一去不復返，所以我不能再懷念那快樂的過去，而要把握當下，並且「更上一層樓」，這樣的生命，才據有真正的價值。</P>
+<TEXT>
+<MISTAKE wrong_position=64>
+<WRONG>據有</WRONG>
+<CORRECT>具有</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00324">
+<P>一轉眼，小學六年就結束了，接下來進入國中，來到一個陌生的環境，想起小時的玩伴，但大家都分道揚標了。</P>
+<TEXT>
+<MISTAKE wrong_position=47>
+<WRONG>分道揚標</WRONG>
+<CORRECT>分道揚鑣</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00325">
+<P>朋友都離我遠去，要找以前的朋友敘舊，可能沒辦法，忙的忙，當時畢業那天，有人哭得一把鼻涕，一把眼淚好傷心哦！不想分開，他們當時的心情，我彷佛也能體會到了。</P>
+<TEXT>
+<MISTAKE wrong_position=69>
+<WRONG>彷佛</WRONG>
+<CORRECT>彷彿</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00326">
+<P>快樂在你的每一個腳落只是你不曾去看見它，它是要你自己去尋找才能找出它在哪裡。</P>
+<TEXT>
+<MISTAKE wrong_position=9>
+<WRONG>腳落</WRONG>
+<CORRECT>角落</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00327">
+<P>要找到快樂有四種方法，第一種是自己去主動去跟別人互相活動，就會有快樂，第二去跟別人聊天，講談一些事就可以得獲取，第三去幫助別人他就會代給你快樂，第四隻要去跟別人玩樂和球也會得到快樂，不是不會哦！</P>
+<TEXT>
+<MISTAKE wrong_position=67>
+<WRONG>代給你</WRONG>
+<CORRECT>帶給你</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00328">
+<P>在現在的國中生活，壓力是免不了的，壓力一層一層地堆積，久了之後，笑容也不見了。但我想快樂也是一種生活的動力，緊管笑不出來，也努力地為鏡中的自己、週遭的人笑一個吧！</P>
+<TEXT>
+<MISTAKE wrong_position=55>
+<WRONG>緊管</WRONG>
+<CORRECT>儘管</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00329">
+<P>每個人都會有自己的興趣和常處，有些人能夠在操場上迅速奔馳；有些人能夠教導同學的課業問題；有些人能夠在舞蹈的方面脫穎而出，而我的興趣，就是在管樂團練習的時候，打著打擊樂器。</P>
+<TEXT>
+<MISTAKE wrong_position=13>
+<WRONG>常處</WRONG>
+<CORRECT>長處</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00330">
+<P>每當到了星期三下午的社團課，我總是破不及待地向活動教室跑去。隨著樂團的旋律，和那整齊的節奏，身體都會不由自主地跟著擺動了起來，沉浸在音樂的美妙中。</P>
+<TEXT>
+<MISTAKE wrong_position=18>
+<WRONG>破不及待</WRONG>
+<CORRECT>迫不及待</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00331">
+<P>生活純樸自然、不貪心、不求名利的快樂、不求多很容易就滿足的快樂，是自足常樂，足足就不會不時就有慾望，就常常不滿足而不快樂；人生不會太悲觀，反而要樂觀，你的人生頓時就會開郎、光明。</P>
+<TEXT>
+<MISTAKE wrong_position=85>
+<WRONG>開郎</WRONG>
+<CORRECT>開朗</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00332">
+<P>在繁忙的都市生活中，寧願脫離事俗，也不要生活在痛苦裡。我祟尚自由，因此在幽靜的自然中的我，是最快樂的。</P>
+<TEXT>
+<MISTAKE wrong_position=29>
+<WRONG>祟尚</WRONG>
+<CORRECT>崇尚</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00333">
+<P>在我們日常生活中，其實有很多事可以使自己快樂，不要定要用錢才能達到效果，像去爬山，耹聽蟲鳴鳥叫，吸收大自然所散發出的氣息，只要要用心去欣賞，再平凡的事物也可以使自己快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=42>
+<WRONG>耹聽</WRONG>
+<CORRECT>聆聽</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00334">
+<P>來聽事情的經過，我邊說，媽媽就抱抱我，叫我不要害怕，不要害怕。我聽了很心慰，原來母愛是有那麼大的力量可以讓我平定心情。</P>
+<TEXT>
+<MISTAKE wrong_position=36>
+<WRONG>心慰</WRONG>
+<CORRECT>欣慰</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00335">
+<P>每當我難過時，媽媽總是在我身邊安慰我，母愛是很偉大的，在你可以孝順母親的時間要好好孝順，不要失去了才懂得真惜。</P>
+<TEXT>
+<MISTAKE wrong_position=53>
+<WRONG>真惜</WRONG>
+<CORRECT>珍惜</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00336">
+<P>字條上寫著：「對不起！爸媽是不得以的，只能留你自己一個人，剩下的八十塊你就省著用吧！你就自立自強，為自己闖出一片天！」我看完不禁淚箭如雨。</P>
+<TEXT>
+<MISTAKE wrong_position=17>
+<WRONG>不得以</WRONG>
+<CORRECT>不得已</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00337">
+<P>所以說：「快樂到底從哪裡來？」，快樂其實可以從這世上森羅萬像的種種事物中來，只要是從你的角度去看，是有趣的、愉悅的，能讓自己高興的角度看，而且用心去體會、去感受，快樂便會像是在你身邊，無窮無盡地讓你感受到快樂就在心中。</P>
+<TEXT>
+<MISTAKE wrong_position=30>
+<WRONG>森羅萬像</WRONG>
+<CORRECT>森羅萬象</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00338">
+<P>每個人的快樂都不盡相同，但也不能將自己的快樂，踐築於別人的痛苦之上，這樣會遭受別人無情的排斥。</P>
+<TEXT>
+<MISTAKE wrong_position=24>
+<WRONG>踐築</WRONG>
+<CORRECT>建築</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00339">
+<P>窗外天空一片蔚藍，枝頭鳥兒昂頭高歌，螞蟻辛勒勞動，蜜蜂展翅去開採、快樂、無其不有，而我的快樂則來自那平凡中的不平凡。</P>
+<TEXT>
+<MISTAKE wrong_position=38>
+<WRONG>無其不有</WRONG>
+<CORRECT>無奇不有</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00340">
+<P>或許和同學出去玩，和家人出國旅遊，我的快樂，源源不絕。由於現在的我們，正處於國中生涯的關鑑，有時快樂總是被課業沒收。</P>
+<TEXT>
+<MISTAKE wrong_position=45>
+<WRONG>關鑑</WRONG>
+<CORRECT>關鍵</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00341">
+<P>快樂，是一種心靈的享受，更是醫治的良藥。只要用心體會，處處都是快樂的縱跡，身旁的人、事或物將會是快樂的支柱。</P>
+<TEXT>
+<MISTAKE wrong_position=35>
+<WRONG>縱跡</WRONG>
+<CORRECT>蹤跡</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00342">
+<P>朋友和我發生爭執時，大家學我們一起打球，打玩後，又發現「快樂」，它不在胃裡，不在過濾網上，它在每個人的臉上，大家也都忘了前幾分鐘的分爭。</P>
+<TEXT>
+<MISTAKE wrong_position=66>
+<WRONG>分爭</WRONG>
+<CORRECT>紛爭</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00343">
+<P>有愛才會快樂，當然愛是不可限量的，所以在我的關念裡有自由又有愛的人是真正快樂的。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>關念</WRONG>
+<CORRECT>觀念</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00344">
+<P>舉列來說，我只要和同學們一起打籃球，不管是輸是贏，我都快樂，只要吃到父母煮的菜我都快樂，不管我喜不喜歡、愛不愛吃，我都感恩、快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=2>
+<WRONG>舉列</WRONG>
+<CORRECT>舉例</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00345">
+<P>總而且之，就是在我身邊為我付出的人，我都感恩，也會快樂，因為我收到了他們的愛，也感謝天地父母，可以讓我有自由自在可以自由控制的身體，讓我得到自由、讓我獲得快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=3>
+<WRONG>總而且之</WRONG>
+<CORRECT>總而言之</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00346">
+<P>每天有看不完的書，寫不完的作業和做不完的事，上了國中有一堆事正等著我去做，沒有太多閒瑕的時間可去好好地和朋友和家人去逛、看電影，也許就因為這些瑣碎的事物讓我失去快樂的笑容吧！面臨到種種的課業壓力，或許這才是我不快樂的原因吧！</P>
+<TEXT>
+<MISTAKE wrong_position=43>
+<WRONG>閒瑕</WRONG>
+<CORRECT>閒暇</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00347">
+<P>有時候這些事物也是可以讓你笑到肚子痛的，而且生活中有很多人其實也可以帶給你快樂的，觀察他們有時候槁不好做一些很多趣味，他們的動作中，你也可以得到一些快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=49>
+<WRONG>槁不好</WRONG>
+<CORRECT>搞不好</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00348">
+<P>人們思考「快樂」從何而來，如何得手時，為何不先想為什麼人要有這麼多的抱怨，遇到挫折，為何不想將挫折成為讓自己更勇敢或人生蛻變的轉捩點，剋服了脆弱後，不用再去想快樂哪裡來？而快樂就會從心底源源不絕地湧上來。</P>
+<TEXT>
+<MISTAKE wrong_position=68>
+<WRONG>剋服</WRONG>
+<CORRECT>克服</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00349">
+<P>「快樂」，是為生活中增添色彩的畫筆，令人們因煩忙變灰暗的心繪上繽紛的角落；有的來自和死黨在球場上揮汗；有的是從書香中找到，而我，則是別人的微笑中發現快樂。</P>
+<TEXT>
+<MISTAKE wrong_position=23>
+<WRONG>煩忙</WRONG>
+<CORRECT>繁忙</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>
+
+<DOC Nid="00350">
+<P>然而，你曾經失去快樂時，你一定會想把你失去的快樂再找回來，或許你會看看書，打打球，玩玩電腦，睡個覺，讓心靜下來後，再想辦法讓自己快樂，這或許就是人類想追求快樂的欲望！</P>
+<TEXT>
+<MISTAKE wrong_position=81>
+<WRONG>欲望</WRONG>
+<CORRECT>慾望</CORRECT>
+</MISTAKE>
+</TEXT>
+</DOC>

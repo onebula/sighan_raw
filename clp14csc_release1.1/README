@@ -1,0 +1,55 @@
+CLP 2014 CSC Datasets
+Release 1.1
+10 Febuary 2015
+
+This README file describes the data sets and evalaution procedure for the
+CLP 2014 Bake-off: Chinese Spelling Check.
+
+The package is distributed freely with the following copyright
+Copyright (C) 2014 Liang-Chih Yu, Lung-Hao Lee, Yuen-Hsien Tseng, Hsin-Hsi Chen
+                   
+Any questions regarding the datasets should be directed to
+lcyu@saturn.yzu.edu.tw, lunghaolee@gmail.com, samtseng@ntnu.edu.tw, hhchen@ntu.edu.tw
+
+ChangeLog:
+-	Thanks for Prof. Chuan-Jie Lin and his research team 
+	for their contributions to correct some annotation errors. 
+
+
+1. Directory Structure and Contents
+===================================
+
+The top-level directory has four subdirectories, namely
+
+- Dryrun/	: The dryrun set used for output format validation
+
+- Test/	: This set consists of 1,062 testing passages, each with an average of 50 characters.
+ 					Half of these passages included at least one spelling error each for a total of 792 spelling errors. 
+          Participants can employ any linguistic and computational resources to do detection and correction.
+                        
+- Tool/	: The program used to evaluate the test data sets.  
+
+- Training/	: This set included 1,301 selected CFLs'essays with a total of 5,284 spelling errors. 
+							Each essay is represented in SGML format
+		Example:
+		<ESSAY title="寫給即將初次見面的筆友的一封信">
+		<TEXT>
+		<PASSAGE id="B1-0112-1">那一天我會穿牛仔褲和紅色的外套；頭會帶著藍色的帽子。如果你找不到我，可以打我的手機。 </PASSAGE>
+		<PASSAGE id="B1-0112-2">我記得你說你想試試看越南菜是有什麼味覺，午餐我會帶你去吃。我也想試試看那一家的越南菜；網路站說很多人喜歡那一家餐廳。</PASSAGE>
+		</TEXT>
+		<MISTAKE id="B1-0112-1" location="19"><WRONG>帶著</WRONG><CORRECTION>戴著</CORRECTION></MISTAKE>
+		<MISTAKE id="B1-0112-2" location="46"><WRONG>網路站</WRONG><CORRECTION>網路上</CORRECTION></MISTAKE>
+		</ESSAY>
+    
+2. How to use the evaluation tool
+================================================
+
+java -jar clp14csc.jar    
+  -i : file path of the system results (required)
+  -t : file path of the ground truth (required)
+  -o : file path of the detailed evaluation report (optional) 
+  
+Example:   
+java -jar clp14csc.jar -i CLP14_Toy_Result.txt -t CLP14_Toy_Truth.txt -o CLP14_Toy_Evaluation.txt
+
+  

@@ -1,0 +1,26 @@
+[SIGHAN-7] Bake-off: Chinese Spelling Check Task
+
+==========================================================
+Part 1: Overall Performance
+==========================================================
+
+Location Accuracy = 0.6 (3/5)
+Correction Accuracy = 0.4 (2/5)
+Correction Precision = 0.5 (2/4)
+
+
+==========================================================
+Part 2: Details
+==========================================================
+
+# of all testing sentences: 5
+00366 | 00367 | 00368 | 00369 | 00370 | 
+
+# of sentences the system returns corrections: 4
+00366 | 00367 | 00368 | 00369 | 
+
+# of sentences correctly detected the error location: 3
+(00366,1) | (00367,10) | (00369,16,48) | 
+
+# of sentences correctly corrected the error: 2
+(00367,10,的) | (00369,16,炭,48,作) | 

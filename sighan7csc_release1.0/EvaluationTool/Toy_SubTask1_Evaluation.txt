@@ -1,0 +1,47 @@
+[SIGHAN-7] Bake-off: Chinese Spelling Check Task
+
+==========================================================
+Part 1: Overall Performance
+==========================================================
+
+False-Alarm Rate = 0.5 (1/2)
+Detection Accuracy = 0.8 (4/5)
+Detection Precision = 0.75 (3/4)
+Detection Recall = 1 (3/3)
+Detection F-Score = 0.8571 (2*0.75*1/(0.75+1))
+Error Location Accuracy = 0.6 (3/5)
+Error Location Precision = 0.5 (2/4)
+Error Location Recall = 0.6667 (2/3)
+Error Location F-Score = 0.5714 (2*0.5*0.6667/(0.5+0.6667))
+
+
+==========================================================
+Part 2: Details
+==========================================================
+
+# of all testing sentences: 5
+0022 | 0023 | 0024 | 0025 | 0026 | 
+
+# of testing sentences with errors: 3
+0022 | 0025 | 0026 | 
+
+# of testing sentences without errors: 2
+0023 | 0024 | 
+
+# of sentences the system return as with errors: 4
+0022 | 0023 | 0025 | 0026 | 
+
+# of sentences with false positive error detection results: 1
+0023 | 
+
+# of sentences with correctly error detected results: 3
+0022 | 0025 | 0026 | 
+
+# of sentences with correctly detected results: 4
+0022 | 0024 | 0025 | 0026 | 
+
+# of sentences with correct location detection: 3
+(0024,0) | (0025,72,79) | (0026,103) | 
+
+# of sentences with correct error locations: 2
+(0025,72,79) | (0026,103) | 

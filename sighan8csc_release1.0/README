@@ -1,0 +1,61 @@
+SIGHAN 2015 CSC Datasets
+Release 1.0
+23 July 2015
+
+This README file describes the data sets and evalaution procedure for the
+SIGHAN 2015 Bake-off: Chinese Spelling Check.
+
+The package is distributed freely with the following copyright
+Copyright (C) 2015 Yuen-Hsien Tseng, Lung-Hao Lee, Li-Ping Chang, Hsin-Hsi Chen
+                   
+Any questions regarding the datasets should be directed to
+samtseng@ntnu.edu.tw, lunghaolee@gmail.com, lchang@ntnu.edu.tw, hhchen@ntu.edu.tw
+
+
+1. Directory Structure and Contents
+===================================
+
+The top-level directory has four subdirectories, namely
+
+- Dry/	: The dryrun set used for output format validation
+
+- Test/	: This set consists of 1,100 testing passages.
+ 					Half of these passages contained no spelling errors, while the other half included at least one spelling error.
+          Participants can employ any linguistic and computational resources to do detection and correction.
+                        
+- Tool/	: The program used to evaluate the test data sets.  
+
+- Training/	: This set included 970 selected CFLs'essays with a total of 3,143 spelling errors. 
+							Each essay is represented in SGML format
+		Example:
+			<ESSAY title="學中文的第一天">
+			<TEXT>
+			<PASSAGE id="A2-0521-1">這位小姐說：你應該一直走到十只路口，再右磚一直走經過一家銀行就到了。</PASSAGE>
+			<PASSAGE id="A2-0521-2">應為今天是第一天，老師先請學生自己給介紹。</PASSAGE>
+			</TEXT>
+			<MISTAKE id="A2-0521-1" location="15">
+			<WRONG>十只路口</WRONG>
+			<CORRECTION>十字路口</CORRECTION>
+			</MISTAKE>
+			<MISTAKE id="A2-0521-1" location="21">
+			<WRONG>右磚</WRONG>
+			<CORRECTION>右轉</CORRECTION>
+			</MISTAKE>
+			<MISTAKE id="A2-0521-2" location="1">
+			<WRONG>應為</WRONG>
+			<CORRECTION>因為</CORRECTION>
+			</MISTAKE>
+			</ESSAY>			
+		
+2. How to use the evaluation tool
+================================================
+
+java -jar sighan15csc.jar    
+  -i : file path of the system results (required)
+  -t : file path of the ground truth (required)
+  -o : file path of the detailed evaluation report (optional) 
+  
+Example:   
+java -jar sighan15csc.jar -i SIGHAN15_Toy_Result.txt -t SIGHAN15_Toy_Truth.txt -o SIGHAN15_Toy_Evaluation.txt
+
+  
