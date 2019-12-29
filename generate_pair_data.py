@@ -13,9 +13,8 @@ from opencc import OpenCC
 from file_io import save_data_list
 
 cc = OpenCC('t2s')
-def convert(text):
-    #return cc.convert(text)
-    return text
+def convert(texts):
+    return [cc.convert(text) for text in texts]
 
 def transform_2013(html_string):
     soup = BeautifulSoup(html_string, 'lxml')
@@ -25,14 +24,14 @@ def transform_2013(html_string):
     mistakes = soup.find_all('mistake')
     for sentence in sentences:
         text = sentence.get_text().strip()
-        error_text = convert(text)
+        error_text = text
         correct_text = error_text[:]
         for mistake in mistakes:
             location = int(mistake.get('wrong_position', '0').strip()) - 1
             if location == -1:
                 continue
-            error = convert(mistake.wrong.get_text().strip())
-            correct = convert(mistake.correct.get_text().strip())
+            error = mistake.wrong.get_text().strip()
+            correct = mistake.correct.get_text().strip()
             st = location - len(error)
             ed = location + len(error)
             # 校准位置
@@ -95,15 +94,15 @@ def transform_html(html_string):
     for sentence in sentences:
         text_id = sentence.get('id', '')
         text = sentence.get_text().strip()
-        error_text = convert(text)
+        error_text = text
         correct_text = error_text[:]
         for mistake in mistakes:
             if mistake.get('id', '') == text_id:
                 location = int(mistake.get('location', '0').strip()) - 1
                 if location == -1:
                     continue
-                error = convert(mistake.wrong.get_text().strip())
-                correct = convert(mistake.correction.get_text().strip())                    
+                error = mistake.wrong.get_text().strip()
+                correct = mistake.correction.get_text().strip()              
                 st = location - len(error)
                 ed = location + len(error) + 1
                 # 校准位置
@@ -183,7 +182,13 @@ def process_truth(doc_file, truth_file):
         with open(truth_file, 'r') as f2:
             for line1, line2 in zip(f1, f2):
                 try:
-                    doc = regex.split('[ \t]', line1.decode('utf8').strip())
+                    line1 = line1.decode('utf8').strip()
+                    for i, char in enumerate(line1):
+                        if char in [' ', '\t']:
+                            break
+                    text_id = line1[0:i]
+                    text = line1[i+1:]
+                    #doc = regex.split('[ \t]', line1.decode('utf8').strip())
                 except Exception as e:
                     print line1
                     print e
@@ -194,10 +199,8 @@ def process_truth(doc_file, truth_file):
                     print line2
                     print e
                     continue
-                text_id = doc[0]
-                text = ''.join(doc[1:])
                 text_id = regex.findall(u'\((NID|pid)=(.*)\)', text_id)[0][1]
-                error_text = convert(text)
+                error_text = text
                 correct_text = error_text[:]
                 truth_id = truth[0]
                 if truth_id == text_id:
@@ -207,7 +210,7 @@ def process_truth(doc_file, truth_file):
                         st = int(truth[i]) - 1
                         ed = st + 1
                         error = error_text[st:ed]
-                        correct = convert(truth[i+1])
+                        correct = truth[i+1]
                         if error == correct:
                             print text
                             print text[st:ed]
@@ -240,49 +243,102 @@ if __name__ == '__main__':
     '''
     # train
     '''
-    
-    raw_error_texts1, raw_correct_texts1 = process_2013('sighan7csc_release1.0/SampleSet/Bakeoff2013_SampleSet_WithError_00001-00350.txt')
-    raw_error_texts2, raw_correct_texts2 = process_2013('sighan7csc_release1.0/SampleSet/Bakeoff2013_SampleSet_WithoutError_10001-10350.txt')
+    '''
+    # 2013
+    '''
+    raw_error_texts1, raw_correct_texts1 = process_2013('raw_data/sighan7csc_release1.0/SampleSet/Bakeoff2013_SampleSet_WithError_00001-00350.txt')
+    raw_error_texts2, raw_correct_texts2 = process_2013('raw_data/sighan7csc_release1.0/SampleSet/Bakeoff2013_SampleSet_WithoutError_10001-10350.txt')
     error_texts = raw_error_texts1 + raw_error_texts2
     correct_texts = raw_correct_texts1 + raw_correct_texts2
     cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'train13_error.txt', sep = '')
-    save_data_list(correct_texts, 'train13_correct.txt', sep = '')
+    save_data_list(error_texts, 'pair_data/traditional/train13_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/train13_correct.txt', sep = '')
     
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/train13_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/train13_correct.txt', sep = '')
     
-    raw_error_texts1, raw_correct_texts1 = process_html('clp14csc_release1.1/Training/B1_training.sgml')
-    raw_error_texts2, raw_correct_texts2 = process_html('clp14csc_release1.1/Training/C1_training.sgml')
+    '''
+    # 2014
+    '''
+    raw_error_texts1, raw_correct_texts1 = process_html('raw_data/clp14csc_release1.1/Training/B1_training.sgml')
+    raw_error_texts2, raw_correct_texts2 = process_html('raw_data/clp14csc_release1.1/Training/C1_training.sgml')
     error_texts = raw_error_texts1 + raw_error_texts2
     correct_texts = raw_correct_texts1 + raw_correct_texts2
     cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'train14_error.txt', sep = '')
-    save_data_list(correct_texts, 'train14_correct.txt', sep = '')
+    save_data_list(error_texts, 'pair_data/traditional/train14_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/train14_correct.txt', sep = '')
     
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/train14_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/train14_correct.txt', sep = '')
     
-    raw_error_texts1, raw_correct_texts1 = process_html('sighan8csc_release1.0/Training/SIGHAN15_CSC_A2_Training.sgml')
-    raw_error_texts2, raw_correct_texts2 = process_html('sighan8csc_release1.0/Training/SIGHAN15_CSC_B2_Training.sgml')
+    '''
+    # 2015
+    '''
+    raw_error_texts1, raw_correct_texts1 = process_html('raw_data/sighan8csc_release1.0/Training/SIGHAN15_CSC_A2_Training.sgml')
+    raw_error_texts2, raw_correct_texts2 = process_html('raw_data/sighan8csc_release1.0/Training/SIGHAN15_CSC_B2_Training.sgml')
     error_texts = raw_error_texts1 + raw_error_texts2
     correct_texts = raw_correct_texts1 + raw_correct_texts2
     cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'train15_error.txt', sep = '')
-    save_data_list(correct_texts, 'train15_correct.txt', sep = '')
+    save_data_list(error_texts, 'pair_data/traditional/train15_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/train15_correct.txt', sep = '')
+    
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/train15_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/train15_correct.txt', sep = '')
     
     '''
     # test
     '''
-    
-    error_texts, correct_texts = process_truth('sighan7csc_release1.0/FinalTest/FinalTest_SubTask2.txt', 'sighan7csc_release1.0/FinalTest/FinalTest_SubTask2_Truth.txt')
+    '''
+    # 2013
+    '''
+    error_texts, correct_texts = process_truth('raw_data/sighan7csc_release1.0/FinalTest/FinalTest_SubTask2.txt', 
+                                               'raw_data/sighan7csc_release1.0/FinalTest/FinalTest_SubTask2_Truth.txt')
     cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'test13_error.txt', sep = '')
-    save_data_list(correct_texts, 'test13_correct.txt', sep = '')
+    save_data_list(error_texts, 'pair_data/traditional/test13_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/test13_correct.txt', sep = '')
     
-    error_texts, correct_texts = process_truth('clp14csc_release1.1/Test/CLP14_CSC_TestInput.txt', 'clp14csc_release1.1/Test/CLP14_CSC_TestTruth.txt')
-    cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'test14_error.txt', sep = '')
-    save_data_list(correct_texts, 'test14_correct.txt', sep = '')
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/test13_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/test13_correct.txt', sep = '')
     
-    error_texts, correct_texts = process_truth('sighan8csc_release1.0/Test/SIGHAN15_CSC_TestInput.txt', 'sighan8csc_release1.0/Test/SIGHAN15_CSC_TestTruth.txt')
+    '''
+    # 2014
+    '''
+    error_texts, correct_texts = process_truth('raw_data/clp14csc_release1.1/Test/CLP14_CSC_TestInput.txt', 
+                                               'raw_data/clp14csc_release1.1/Test/CLP14_CSC_TestTruth.txt')
     cal_diff(error_texts, correct_texts)
-    save_data_list(error_texts, 'test15_error.txt', sep = '')
-    save_data_list(correct_texts, 'test15_correct.txt', sep = '')
+    save_data_list(error_texts, 'pair_data/traditional/test14_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/test14_correct.txt', sep = '')
+    
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/test14_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/test14_correct.txt', sep = '')
+    
+    '''
+    # 2015
+    '''
+    error_texts, correct_texts = process_truth('raw_data/sighan8csc_release1.0/Test/SIGHAN15_CSC_TestInput.txt', 
+                                               'raw_data/sighan8csc_release1.0/Test/SIGHAN15_CSC_TestTruth.txt')
+    cal_diff(error_texts, correct_texts)
+    save_data_list(error_texts, 'pair_data/traditional/test15_error.txt', sep = '')
+    save_data_list(correct_texts, 'pair_data/traditional/test15_correct.txt', sep = '')
+    
+    s_error_texts = convert(error_texts)
+    s_correct_texts = convert(correct_texts)
+    cal_diff(s_error_texts, s_correct_texts)
+    save_data_list(s_error_texts, 'pair_data/simplified/test15_error.txt', sep = '')
+    save_data_list(s_correct_texts, 'pair_data/simplified/test15_correct.txt', sep = '')
     
