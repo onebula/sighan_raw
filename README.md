@@ -23,13 +23,21 @@ SIGHAN-2015 shared task on CSC: [LINK](http://ir.itc.ntnu.edu.tw/lre/sighan8csc_
 
 ## 提取数据
 
-繁体
+运行程序
+
+```shell
+python generate_pair_data.py
+```
+
+### 繁体
 
 pair_data/traditional/
 
-简体（使用opencc转换）
+### 简体
 
 pair_data/simplified/
+
+使用opencc对繁体进行转换得到
 
 注意：
 
